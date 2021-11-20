@@ -1,0 +1,32 @@
+Table 1: Number of Canada Recovery Benefit (CRB) applications unique applicants and total gross amount (in $000) by province and territory,,,
+,,,
+Province/Territory,Number of Applications,Number of Unique Applicants,Total Gross Amount ($000)
+Newfoundland and Labrador,260800,22800,257660
+Prince Edward Island,62580,5150,61810
+Nova Scotia,527620,46430,521360
+New Brunswick,348610,29360,344290
+Quebec,4120040,358440,4073400
+Ontario,11946960,942400,11799200
+Manitoba,718440,65190,710980
+Saskatchewan,635410,56330,628710
+Alberta,3304730,275460,3267810
+British Columbia,3245780,259940,3206630
+Yukon,23480,2120,23280
+Northwest Territories,32850,3240,32550
+Nunavut,20790,2760,20630
+Outside Canada,7170,710,7140
+Missing,-,-,-
+Total,25255270,2070330,24955450
+,,,
+ ,,,
+Notes:,,,
+1. Data are as of August 29 2021 and are subject to change as more applications are received.,,,
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Benefit (CRB) file.,,,
+3. A unique applicant is an individual. Each unique applicant may apply for more than one eligibility period up to a maximum of 27 periods (54 weeks) for the CRB.,,,
+4. Figures are stated for applicants who applied for the CRB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.,,,
+5. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.,,,
+6. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.',,,
+7. The gross amount is the total before taxes are withheld. The Canada Revenue Agency withholds a 10% tax at source for each CRB payment issued.,,,
+8. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.,,,
+9. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.,,,
+10. Beneficiaries can move between programs over time. For example a beneficiary who is on CRB could apply and move to CRCB for the next benefit period to care for a family member. Alternatively a beneficiary could leave the Employment Insurance (EI) program and move to one of the CRA administered recovery benefits. Regardless of which program a beneficiary moves to they are only eligible to receive one EI or one CRA recovery benefit type in the same period. As a result summing the total number of unique beneficiaries across programs over multiple periods can lead to over-reporting.,,,
