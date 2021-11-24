@@ -1,0 +1,1174 @@
+Date,Country,State,Date,Key,State_Abbrev,Monthly_new_case,Monthly_new_death
+1/1/2020,United States,Alaska,1/1/2020,43831Alaska,AK,0,0
+1/1/2020,United States,Alabama,1/1/2020,43831Alabama,AL,0,0
+1/1/2020,United States,Arkansas,1/1/2020,43831Arkansas,AR,0,0
+1/1/2020,United States,Arizona,1/1/2020,43831Arizona,AZ,1,0
+1/1/2020,United States,California,1/1/2020,43831California,CA,0,0
+1/1/2020,United States,Colorado,1/1/2020,43831Colorado,CO,0,0
+1/1/2020,United States,Connecticut,1/1/2020,43831Connecticut,CT,0,0
+1/1/2020,United States,District of Columbia,1/1/2020,43831District of Columbia,DC,0,0
+1/1/2020,United States,Delaware,1/1/2020,43831Delaware,DE,0,0
+1/1/2020,United States,Florida,1/1/2020,43831Florida,FL,0,0
+1/1/2020,United States,Georgia,1/1/2020,43831Georgia,GA,0,0
+1/1/2020,United States,Hawaii,1/1/2020,43831Hawaii,HI,0,0
+1/1/2020,United States,Iowa,1/1/2020,43831Iowa,IA,0,0
+1/1/2020,United States,Idaho,1/1/2020,43831Idaho,ID,0,0
+1/1/2020,United States,Illinois,1/1/2020,43831Illinois,IL,2,0
+1/1/2020,United States,Indiana,1/1/2020,43831Indiana,IN,0,0
+1/1/2020,United States,Kansas,1/1/2020,43831Kansas,KS,0,0
+1/1/2020,United States,Kentucky,1/1/2020,43831Kentucky,KY,0,0
+1/1/2020,United States,Louisiana,1/1/2020,43831Louisiana,LA,0,0
+1/1/2020,United States,Massachusetts,1/1/2020,43831Massachusetts,MA,0,0
+1/1/2020,United States,Maryland,1/1/2020,43831Maryland,MD,0,0
+1/1/2020,United States,Maine,1/1/2020,43831Maine,ME,0,0
+1/1/2020,United States,Michigan,1/1/2020,43831Michigan,MI,0,0
+1/1/2020,United States,Minnesota,1/1/2020,43831Minnesota,MN,0,0
+1/1/2020,United States,Missouri,1/1/2020,43831Missouri,MO,0,0
+1/1/2020,United States,Mississippi,1/1/2020,43831Mississippi,MS,0,0
+1/1/2020,United States,Montana,1/1/2020,43831Montana,MT,0,0
+1/1/2020,United States,North Carolina,1/1/2020,43831North Carolina,NC,0,0
+1/1/2020,United States,North Dakota,1/1/2020,43831North Dakota,ND,0,0
+1/1/2020,United States,Nebraska,1/1/2020,43831Nebraska,NE,0,0
+1/1/2020,United States,New Hampshire,1/1/2020,43831New Hampshire,NH,0,0
+1/1/2020,United States,New Jersey,1/1/2020,43831New Jersey,NJ,0,0
+1/1/2020,United States,New Mexico,1/1/2020,43831New Mexico,NM,0,0
+1/1/2020,United States,Nevada,1/1/2020,43831Nevada,NV,0,0
+1/1/2020,United States,New York,1/1/2020,43831New York,NY,0,0
+1/1/2020,United States,Ohio,1/1/2020,43831Ohio,OH,0,0
+1/1/2020,United States,Oklahoma,1/1/2020,43831Oklahoma,OK,0,0
+1/1/2020,United States,Oregon,1/1/2020,43831Oregon,OR,0,0
+1/1/2020,United States,Pennsylvania,1/1/2020,43831Pennsylvania,PA,0,0
+1/1/2020,United States,Rhode Island,1/1/2020,43831Rhode Island,RI,0,0
+1/1/2020,United States,South Carolina,1/1/2020,43831South Carolina,SC,0,0
+1/1/2020,United States,South Dakota,1/1/2020,43831South Dakota,SD,0,0
+1/1/2020,United States,Tennessee,1/1/2020,43831Tennessee,TN,0,0
+1/1/2020,United States,Texas,1/1/2020,43831Texas,TX,0,0
+1/1/2020,United States,Utah,1/1/2020,43831Utah,UT,0,0
+1/1/2020,United States,Virginia,1/1/2020,43831Virginia,VA,0,0
+1/1/2020,United States,Vermont,1/1/2020,43831Vermont,VT,0,0
+1/1/2020,United States,Washington,1/1/2020,43831Washington,WA,1,0
+1/1/2020,United States,Wisconsin,1/1/2020,43831Wisconsin,WI,0,0
+1/1/2020,United States,West Virginia,1/1/2020,43831West Virginia,WV,0,0
+1/1/2020,United States,Wyoming,1/1/2020,43831Wyoming,WY,0,0
+2/1/2020,United States,Alaska,2/1/2020,43862Alaska,AK,0,0
+2/1/2020,United States,Alabama,2/1/2020,43862Alabama,AL,0,1
+2/1/2020,United States,Arkansas,2/1/2020,43862Arkansas,AR,0,0
+2/1/2020,United States,Arizona,2/1/2020,43862Arizona,AZ,0,0
+2/1/2020,United States,California,2/1/2020,43862California,CA,34,0
+2/1/2020,United States,Colorado,2/1/2020,43862Colorado,CO,0,0
+2/1/2020,United States,Connecticut,2/1/2020,43862Connecticut,CT,0,0
+2/1/2020,United States,District of Columbia,2/1/2020,43862District of Columbia,DC,0,0
+2/1/2020,United States,Delaware,2/1/2020,43862Delaware,DE,0,0
+2/1/2020,United States,Florida,2/1/2020,43862Florida,FL,0,0
+2/1/2020,United States,Georgia,2/1/2020,43862Georgia,GA,2,0
+2/1/2020,United States,Hawaii,2/1/2020,43862Hawaii,HI,0,0
+2/1/2020,United States,Iowa,2/1/2020,43862Iowa,IA,0,0
+2/1/2020,United States,Idaho,2/1/2020,43862Idaho,ID,0,0
+2/1/2020,United States,Illinois,2/1/2020,43862Illinois,IL,0,0
+2/1/2020,United States,Indiana,2/1/2020,43862Indiana,IN,0,0
+2/1/2020,United States,Kansas,2/1/2020,43862Kansas,KS,0,0
+2/1/2020,United States,Kentucky,2/1/2020,43862Kentucky,KY,0,0
+2/1/2020,United States,Louisiana,2/1/2020,43862Louisiana,LA,0,0
+2/1/2020,United States,Massachusetts,2/1/2020,43862Massachusetts,MA,1,0
+2/1/2020,United States,Maryland,2/1/2020,43862Maryland,MD,0,0
+2/1/2020,United States,Maine,2/1/2020,43862Maine,ME,0,0
+2/1/2020,United States,Michigan,2/1/2020,43862Michigan,MI,0,0
+2/1/2020,United States,Minnesota,2/1/2020,43862Minnesota,MN,0,0
+2/1/2020,United States,Missouri,2/1/2020,43862Missouri,MO,0,0
+2/1/2020,United States,Mississippi,2/1/2020,43862Mississippi,MS,0,0
+2/1/2020,United States,Montana,2/1/2020,43862Montana,MT,0,0
+2/1/2020,United States,North Carolina,2/1/2020,43862North Carolina,NC,0,0
+2/1/2020,United States,North Dakota,2/1/2020,43862North Dakota,ND,0,0
+2/1/2020,United States,Nebraska,2/1/2020,43862Nebraska,NE,0,0
+2/1/2020,United States,New Hampshire,2/1/2020,43862New Hampshire,NH,0,0
+2/1/2020,United States,New Jersey,2/1/2020,43862New Jersey,NJ,0,0
+2/1/2020,United States,New Mexico,2/1/2020,43862New Mexico,NM,0,0
+2/1/2020,United States,Nevada,2/1/2020,43862Nevada,NV,0,0
+2/1/2020,United States,New York,2/1/2020,43862New York,NY,0,0
+2/1/2020,United States,Ohio,2/1/2020,43862Ohio,OH,0,0
+2/1/2020,United States,Oklahoma,2/1/2020,43862Oklahoma,OK,28,0
+2/1/2020,United States,Oregon,2/1/2020,43862Oregon,OR,1,0
+2/1/2020,United States,Pennsylvania,2/1/2020,43862Pennsylvania,PA,0,0
+2/1/2020,United States,Rhode Island,2/1/2020,43862Rhode Island,RI,0,0
+2/1/2020,United States,South Carolina,2/1/2020,43862South Carolina,SC,0,0
+2/1/2020,United States,South Dakota,2/1/2020,43862South Dakota,SD,0,0
+2/1/2020,United States,Tennessee,2/1/2020,43862Tennessee,TN,0,0
+2/1/2020,United States,Texas,2/1/2020,43862Texas,TX,0,0
+2/1/2020,United States,Utah,2/1/2020,43862Utah,UT,0,0
+2/1/2020,United States,Virginia,2/1/2020,43862Virginia,VA,0,0
+2/1/2020,United States,Vermont,2/1/2020,43862Vermont,VT,0,0
+2/1/2020,United States,Washington,2/1/2020,43862Washington,WA,0,1
+2/1/2020,United States,Wisconsin,2/1/2020,43862Wisconsin,WI,0,0
+2/1/2020,United States,West Virginia,2/1/2020,43862West Virginia,WV,0,0
+2/1/2020,United States,Wyoming,2/1/2020,43862Wyoming,WY,0,0
+3/1/2020,United States,Alaska,3/1/2020,43891Alaska,AK,128,6
+3/1/2020,United States,Alabama,3/1/2020,43891Alabama,AL,1057,48
+3/1/2020,United States,Arkansas,3/1/2020,43891Arkansas,AR,560,8
+3/1/2020,United States,Arizona,3/1/2020,43891Arizona,AZ,1288,24
+3/1/2020,United States,California,3/1/2020,43891California,CA,6898,150
+3/1/2020,United States,Colorado,3/1/2020,43891Colorado,CO,2937,69
+3/1/2020,United States,Connecticut,3/1/2020,43891Connecticut,CT,3128,69
+3/1/2020,United States,District of Columbia,3/1/2020,43891District of Columbia,DC,495,9
+3/1/2020,United States,Delaware,3/1/2020,43891Delaware,DE,414,10
+3/1/2020,United States,Florida,3/1/2020,43891Florida,FL,6515,177
+3/1/2020,United States,Georgia,3/1/2020,43891Georgia,GA,4234,130
+3/1/2020,United States,Hawaii,3/1/2020,43891Hawaii,HI,283,1
+3/1/2020,United States,Iowa,3/1/2020,43891Iowa,IA,497,7
+3/1/2020,United States,Idaho,3/1/2020,43891Idaho,ID,525,9
+3/1/2020,United States,Illinois,3/1/2020,43891Illinois,IL,5992,99
+3/1/2020,United States,Indiana,3/1/2020,43891Indiana,IN,2159,50
+3/1/2020,United States,Kansas,3/1/2020,43891Kansas,KS,428,9
+3/1/2020,United States,Kentucky,3/1/2020,43891Kentucky,KY,711,22
+3/1/2020,United States,Louisiana,3/1/2020,43891Louisiana,LA,5237,239
+3/1/2020,United States,Massachusetts,3/1/2020,43891Massachusetts,MA,6619,155
+3/1/2020,United States,Maryland,3/1/2020,43891Maryland,MD,1660,44
+3/1/2020,United States,Maine,3/1/2020,43891Maine,ME,303,5
+3/1/2020,United States,Michigan,3/1/2020,43891Michigan,MI,19903,558
+3/1/2020,United States,Minnesota,3/1/2020,43891Minnesota,MN,689,17
+3/1/2020,United States,Missouri,3/1/2020,43891Missouri,MO,2558,32
+3/1/2020,United States,Mississippi,3/1/2020,43891Mississippi,MS,2242,153
+3/1/2020,United States,Montana,3/1/2020,43891Montana,MT,203,5
+3/1/2020,United States,North Carolina,3/1/2020,43891North Carolina,NC,2314,13
+3/1/2020,United States,North Dakota,3/1/2020,43891North Dakota,ND,126,3
+3/1/2020,United States,Nebraska,3/1/2020,43891Nebraska,NE,180,3
+3/1/2020,United States,New Hampshire,3/1/2020,43891New Hampshire,NH,367,3
+3/1/2020,United States,New Jersey,3/1/2020,43891New Jersey,NJ,18696,267
+3/1/2020,United States,New Mexico,3/1/2020,43891New Mexico,NM,315,5
+3/1/2020,United States,Nevada,3/1/2020,43891Nevada,NV,1113,26
+3/1/2020,United States,New York,3/1/2020,43891New York,NY,86525,1955
+3/1/2020,United States,Ohio,3/1/2020,43891Ohio,OH,2199,55
+3/1/2020,United States,Oklahoma,3/1/2020,43891Oklahoma,OK,1627,31
+3/1/2020,United States,Oregon,3/1/2020,43891Oregon,OR,689,18
+3/1/2020,United States,Pennsylvania,3/1/2020,43891Pennsylvania,PA,4959,63
+3/1/2020,United States,Rhode Island,3/1/2020,43891Rhode Island,RI,511,9
+3/1/2020,United States,South Carolina,3/1/2020,43891South Carolina,SC,978,11
+3/1/2020,United States,South Dakota,3/1/2020,43891South Dakota,SD,108,1
+3/1/2020,United States,Tennessee,3/1/2020,43891Tennessee,TN,1981,13
+3/1/2020,United States,Texas,3/1/2020,43891Texas,TX,3266,101
+3/1/2020,United States,Utah,3/1/2020,43891Utah,UT,934,5
+3/1/2020,United States,Virginia,3/1/2020,43891Virginia,VA,1484,34
+3/1/2020,United States,Vermont,3/1/2020,43891Vermont,VT,271,16
+3/1/2020,United States,Washington,3/1/2020,43891Washington,WA,5340,194
+3/1/2020,United States,Wisconsin,3/1/2020,43891Wisconsin,WI,1351,16
+3/1/2020,United States,West Virginia,3/1/2020,43891West Virginia,WV,162,1
+3/1/2020,United States,Wyoming,3/1/2020,43891Wyoming,WY,120,0
+4/1/2020,United States,Alaska,4/1/2020,43922Alaska,AK,227,3
+4/1/2020,United States,Alabama,4/1/2020,43922Alabama,AL,6117,337
+4/1/2020,United States,Arkansas,4/1/2020,43922Arkansas,AR,2695,53
+4/1/2020,United States,Arizona,4/1/2020,43922Arizona,AZ,6359,296
+4/1/2020,United States,California,4/1/2020,43922California,CA,41985,1740
+4/1/2020,United States,Colorado,4/1/2020,43922Colorado,CO,12900,708
+4/1/2020,United States,Connecticut,4/1/2020,43922Connecticut,CT,24572,2188
+4/1/2020,United States,District of Columbia,4/1/2020,43922District of Columbia,DC,3828,215
+4/1/2020,United States,Delaware,4/1/2020,43922Delaware,DE,4632,142
+4/1/2020,United States,Florida,4/1/2020,43922Florida,FL,26982,1301
+4/1/2020,United States,Georgia,4/1/2020,43922Georgia,GA,21005,981
+4/1/2020,United States,Hawaii,4/1/2020,43922Hawaii,HI,324,15
+4/1/2020,United States,Iowa,4/1/2020,43922Iowa,IA,6648,155
+4/1/2020,United States,Idaho,4/1/2020,43922Idaho,ID,1490,54
+4/1/2020,United States,Illinois,4/1/2020,43922Illinois,IL,46924,2256
+4/1/2020,United States,Indiana,4/1/2020,43922Indiana,IN,15676,1055
+4/1/2020,United States,Kansas,4/1/2020,43922Kansas,KS,3810,120
+4/1/2020,United States,Kentucky,4/1/2020,43922Kentucky,KY,4024,239
+4/1/2020,United States,Louisiana,4/1/2020,43922Louisiana,LA,22807,1666
+4/1/2020,United States,Massachusetts,4/1/2020,43922Massachusetts,MA,55585,3970
+4/1/2020,United States,Maryland,4/1/2020,43922Maryland,MD,21812,1204
+4/1/2020,United States,Maine,4/1/2020,43922Maine,ME,820,50
+4/1/2020,United States,Michigan,4/1/2020,43922Michigan,MI,34532,3944
+4/1/2020,United States,Minnesota,4/1/2020,43922Minnesota,MN,4447,326
+4/1/2020,United States,Missouri,4/1/2020,43922Missouri,MO,6142,446
+4/1/2020,United States,Mississippi,4/1/2020,43922Mississippi,MS,6218,427
+4/1/2020,United States,Montana,4/1/2020,43922Montana,MT,250,11
+4/1/2020,United States,North Carolina,4/1/2020,43922North Carolina,NC,9177,420
+4/1/2020,United States,North Dakota,4/1/2020,43922North Dakota,ND,941,16
+4/1/2020,United States,Nebraska,4/1/2020,43922Nebraska,NE,4281,67
+4/1/2020,United States,New Hampshire,4/1/2020,43922New Hampshire,NH,1779,69
+4/1/2020,United States,New Jersey,4/1/2020,43922New Jersey,NJ,99957,6961
+4/1/2020,United States,New Mexico,4/1/2020,43922New Mexico,NM,3096,118
+4/1/2020,United States,Nevada,4/1/2020,43922Nevada,NV,3894,226
+4/1/2020,United States,New York,4/1/2020,43922New York,NY,224538,21868
+4/1/2020,United States,Ohio,4/1/2020,43922Ohio,OH,15828,920
+4/1/2020,United States,Oklahoma,4/1/2020,43922Oklahoma,OK,2789,209
+4/1/2020,United States,Oregon,4/1/2020,43922Oregon,OR,1820,85
+4/1/2020,United States,Pennsylvania,4/1/2020,43922Pennsylvania,PA,43175,2229
+4/1/2020,United States,Rhode Island,4/1/2020,43922Rhode Island,RI,8183,331
+4/1/2020,United States,South Carolina,4/1/2020,43922South Carolina,SC,5011,188
+4/1/2020,United States,South Dakota,4/1/2020,43922South Dakota,SD,2341,16
+4/1/2020,United States,Tennessee,4/1/2020,43922Tennessee,TN,8825,182
+4/1/2020,United States,Texas,4/1/2020,43922Texas,TX,24821,893
+4/1/2020,United States,Utah,4/1/2020,43922Utah,UT,3819,41
+4/1/2020,United States,Virginia,4/1/2020,43922Virginia,VA,15417,547
+4/1/2020,United States,Vermont,4/1/2020,43922Vermont,VT,521,32
+4/1/2020,United States,Washington,4/1/2020,43922Washington,WA,9067,619
+4/1/2020,United States,Wisconsin,4/1/2020,43922Wisconsin,WI,5503,300
+4/1/2020,United States,West Virginia,4/1/2020,43922West Virginia,WV,963,43
+4/1/2020,United States,Wyoming,4/1/2020,43922Wyoming,WY,439,7
+5/1/2020,United States,Alaska,5/1/2020,43952Alaska,AK,108,4
+5/1/2020,United States,Alabama,5/1/2020,43952Alabama,AL,11006,480
+5/1/2020,United States,Arkansas,5/1/2020,43952Arkansas,AR,3998,72
+5/1/2020,United States,Arizona,5/1/2020,43952Arizona,AZ,12288,586
+5/1/2020,United States,California,5/1/2020,43952California,CA,61666,2153
+5/1/2020,United States,Colorado,5/1/2020,43952Colorado,CO,10924,668
+5/1/2020,United States,Connecticut,5/1/2020,43952Connecticut,CT,14501,1687
+5/1/2020,United States,District of Columbia,5/1/2020,43952District of Columbia,DC,4478,242
+5/1/2020,United States,Delaware,5/1/2020,43952Delaware,DE,4705,217
+5/1/2020,United States,Florida,5/1/2020,43952Florida,FL,21688,1204
+5/1/2020,United States,Georgia,5/1/2020,43952Georgia,GA,20371,941
+5/1/2020,United States,Hawaii,5/1/2020,43952Hawaii,HI,37,1
+5/1/2020,United States,Iowa,5/1/2020,43952Iowa,IA,12407,372
+5/1/2020,United States,Idaho,5/1/2020,43952Idaho,ID,824,19
+5/1/2020,United States,Illinois,5/1/2020,43952Illinois,IL,67342,3035
+5/1/2020,United States,Indiana,5/1/2020,43952Indiana,IN,16739,1016
+5/1/2020,United States,Kansas,5/1/2020,43952Kansas,KS,5481,79
+5/1/2020,United States,Kentucky,5/1/2020,43952Kentucky,KY,5598,242
+5/1/2020,United States,Louisiana,5/1/2020,43952Louisiana,LA,11872,886
+5/1/2020,United States,Massachusetts,5/1/2020,43952Massachusetts,MA,34760,3114
+5/1/2020,United States,Maryland,5/1/2020,43952Maryland,MD,29855,1436
+5/1/2020,United States,Maine,5/1/2020,43952Maine,ME,1226,34
+5/1/2020,United States,Michigan,5/1/2020,43952Michigan,MI,43686,1430
+5/1/2020,United States,Minnesota,5/1/2020,43952Minnesota,MN,20072,717
+5/1/2020,United States,Missouri,5/1/2020,43952Missouri,MO,5393,418
+5/1/2020,United States,Mississippi,5/1/2020,43952Mississippi,MS,8987,440
+5/1/2020,United States,Montana,5/1/2020,43952Montana,MT,62,1
+5/1/2020,United States,North Carolina,5/1/2020,43952North Carolina,NC,19151,553
+5/1/2020,United States,North Dakota,5/1/2020,43952North Dakota,ND,1510,42
+5/1/2020,United States,Nebraska,5/1/2020,43952Nebraska,NE,9605,100
+5/1/2020,United States,New Hampshire,5/1/2020,43952New Hampshire,NH,2505,173
+5/1/2020,United States,New Jersey,5/1/2020,43952New Jersey,NJ,42154,4470
+5/1/2020,United States,New Mexico,5/1/2020,43952New Mexico,NM,4278,223
+5/1/2020,United States,Nevada,5/1/2020,43952Nevada,NV,3603,186
+5/1/2020,United States,New York,5/1/2020,43952New York,NY,63261,6438
+5/1/2020,United States,Ohio,5/1/2020,43952Ohio,OH,17486,1180
+5/1/2020,United States,Oklahoma,5/1/2020,43952Oklahoma,OK,2983,124
+5/1/2020,United States,Oregon,5/1/2020,43952Oregon,OR,1733,50
+5/1/2020,United States,Pennsylvania,5/1/2020,43952Pennsylvania,PA,27806,3275
+5/1/2020,United States,Rhode Island,5/1/2020,43952Rhode Island,RI,6146,485
+5/1/2020,United States,South Carolina,5/1/2020,43952South Carolina,SC,6069,287
+5/1/2020,United States,South Dakota,5/1/2020,43952South Dakota,SD,2544,45
+5/1/2020,United States,Tennessee,5/1/2020,43952Tennessee,TN,11863,169
+5/1/2020,United States,Texas,5/1/2020,43952Texas,TX,36200,925
+5/1/2020,United States,Utah,5/1/2020,43952Utah,UT,5191,67
+5/1/2020,United States,Virginia,5/1/2020,43952Virginia,VA,28497,811
+5/1/2020,United States,Vermont,5/1/2020,43952Vermont,VT,108,6
+5/1/2020,United States,Washington,5/1/2020,43952Washington,WA,7353,304
+5/1/2020,United States,Wisconsin,5/1/2020,43952Wisconsin,WI,11549,276
+5/1/2020,United States,West Virginia,5/1/2020,43952West Virginia,WV,885,31
+5/1/2020,United States,Wyoming,5/1/2020,43952Wyoming,WY,344,10
+6/1/2020,United States,Alaska,6/1/2020,43983Alaska,AK,481,4
+6/1/2020,United States,Alabama,6/1/2020,43983Alabama,AL,20250,478
+6/1/2020,United States,Arkansas,6/1/2020,43983Arkansas,AR,13524,137
+6/1/2020,United States,Arizona,6/1/2020,43983Arizona,AZ,59300,726
+6/1/2020,United States,California,6/1/2020,43983California,CA,112334,1834
+6/1/2020,United States,Colorado,6/1/2020,43983Colorado,CO,6416,245
+6/1/2020,United States,Connecticut,6/1/2020,43983Connecticut,CT,4313,378
+6/1/2020,United States,District of Columbia,6/1/2020,43983District of Columbia,DC,1526,85
+6/1/2020,United States,Delaware,6/1/2020,43983Delaware,DE,1977,140
+6/1/2020,United States,Florida,6/1/2020,43983Florida,FL,101033,1158
+6/1/2020,United States,Georgia,6/1/2020,43983Georgia,GA,36065,753
+6/1/2020,United States,Hawaii,6/1/2020,43983Hawaii,HI,264,1
+6/1/2020,United States,Iowa,6/1/2020,43983Iowa,IA,9395,180
+6/1/2020,United States,Idaho,6/1/2020,43983Idaho,ID,3278,10
+6/1/2020,United States,Illinois,6/1/2020,43983Illinois,IL,23978,1734
+6/1/2020,United States,Indiana,6/1/2020,43983Indiana,IN,11020,505
+6/1/2020,United States,Kansas,6/1/2020,43983Kansas,KS,4724,62
+6/1/2020,United States,Kentucky,6/1/2020,43983Kentucky,KY,6473,174
+6/1/2020,United States,Louisiana,6/1/2020,43983Louisiana,LA,18179,430
+6/1/2020,United States,Massachusetts,6/1/2020,43983Massachusetts,MA,6736,887
+6/1/2020,United States,Maryland,6/1/2020,43983Maryland,MD,14591,632
+6/1/2020,United States,Maine,6/1/2020,43983Maine,ME,945,16
+6/1/2020,United States,Michigan,6/1/2020,43983Michigan,MI,27082,377
+6/1/2020,United States,Minnesota,6/1/2020,43983Minnesota,MN,11508,422
+6/1/2020,United States,Missouri,6/1/2020,43983Missouri,MO,11267,213
+6/1/2020,United States,Mississippi,6/1/2020,43983Mississippi,MS,15389,391
+6/1/2020,United States,Montana,6/1/2020,43983Montana,MT,503,5
+6/1/2020,United States,North Carolina,6/1/2020,43983North Carolina,NC,41125,460
+6/1/2020,United States,North Dakota,6/1/2020,43983North Dakota,ND,999,18
+6/1/2020,United States,Nebraska,6/1/2020,43983Nebraska,NE,5065,104
+6/1/2020,United States,New Hampshire,6/1/2020,43983New Hampshire,NH,1131,126
+6/1/2020,United States,New Jersey,6/1/2020,43983New Jersey,NJ,11871,1513
+6/1/2020,United States,New Mexico,6/1/2020,43983New Mexico,NM,4458,133
+6/1/2020,United States,Nevada,6/1/2020,43983Nevada,NV,10074,91
+6/1/2020,United States,New York,6/1/2020,43983New York,NY,21774,1373
+6/1/2020,United States,Ohio,6/1/2020,43983Ohio,OH,16276,708
+6/1/2020,United States,Oklahoma,6/1/2020,43983Oklahoma,OK,11587,74
+6/1/2020,United States,Oregon,6/1/2020,43983Oregon,OR,4413,54
+6/1/2020,United States,Pennsylvania,6/1/2020,43983Pennsylvania,PA,15114,1120
+6/1/2020,United States,Rhode Island,6/1/2020,43983Rhode Island,RI,1896,148
+6/1/2020,United States,South Carolina,6/1/2020,43983South Carolina,SC,23621,238
+6/1/2020,United States,South Dakota,6/1/2020,43983South Dakota,SD,1771,29
+6/1/2020,United States,Tennessee,6/1/2020,43983Tennessee,TN,19391,228
+6/1/2020,United States,Texas,6/1/2020,43983Texas,TX,95699,1348
+6/1/2020,United States,Utah,6/1/2020,43983Utah,UT,12802,60
+6/1/2020,United States,Virginia,6/1/2020,43983Virginia,VA,17389,371
+6/1/2020,United States,Vermont,6/1/2020,43983Vermont,VT,203,1
+6/1/2020,United States,Washington,6/1/2020,43983Washington,WA,11065,214
+6/1/2020,United States,Wisconsin,6/1/2020,43983Wisconsin,WI,13259,199
+6/1/2020,United States,West Virginia,6/1/2020,43983West Virginia,WV,895,18
+6/1/2020,United States,Wyoming,6/1/2020,43983Wyoming,WY,584,3
+7/1/2020,United States,Alaska,7/1/2020,44013Alaska,AK,2049,16
+7/1/2020,United States,Alabama,7/1/2020,44013Alabama,AL,49585,962
+7/1/2020,United States,Arkansas,7/1/2020,44013Arkansas,AR,21734,183
+7/1/2020,United States,Arizona,7/1/2020,44013Arizona,AZ,94826,2062
+7/1/2020,United States,California,7/1/2020,44013California,CA,270671,3062
+7/1/2020,United States,Colorado,7/1/2020,44013Colorado,CO,14610,148
+7/1/2020,United States,Connecticut,7/1/2020,44013Connecticut,CT,3296,110
+7/1/2020,United States,District of Columbia,7/1/2020,44013District of Columbia,DC,1799,34
+7/1/2020,United States,Delaware,7/1/2020,44013Delaware,DE,3598,76
+7/1/2020,United States,Florida,7/1/2020,44013Florida,FL,315375,5239
+7/1/2020,United States,Georgia,7/1/2020,44013Georgia,GA,109057,947
+7/1/2020,United States,Hawaii,7/1/2020,44013Hawaii,HI,1264,8
+7/1/2020,United States,Iowa,7/1/2020,44013Iowa,IA,15635,153
+7/1/2020,United States,Idaho,7/1/2020,44013Idaho,ID,14604,97
+7/1/2020,United States,Illinois,7/1/2020,44013Illinois,IL,35880,568
+7/1/2020,United States,Indiana,7/1/2020,44013Indiana,IN,20560,320
+7/1/2020,United States,Kansas,7/1/2020,44013Kansas,KS,13369,88
+7/1/2020,United States,Kentucky,7/1/2020,44013Kentucky,KY,16988,212
+7/1/2020,United States,Louisiana,7/1/2020,44013Louisiana,LA,58185,728
+7/1/2020,United States,Massachusetts,7/1/2020,44013Massachusetts,MA,6086,500
+7/1/2020,United States,Maryland,7/1/2020,44013Maryland,MD,21447,298
+7/1/2020,United States,Maine,7/1/2020,44013Maine,ME,643,18
+7/1/2020,United States,Michigan,7/1/2020,44013Michigan,MI,41363,236
+7/1/2020,United States,Minnesota,7/1/2020,44013Minnesota,MN,18472,164
+7/1/2020,United States,Missouri,7/1/2020,44013Missouri,MO,30375,286
+7/1/2020,United States,Mississippi,7/1/2020,44013Mississippi,MS,31944,852
+7/1/2020,United States,Montana,7/1/2020,44013Montana,MT,2947,38
+7/1/2020,United States,North Carolina,7/1/2020,44013North Carolina,NC,56603,653
+7/1/2020,United States,North Dakota,7/1/2020,44013North Dakota,ND,3026,24
+7/1/2020,United States,Nebraska,7/1/2020,44013Nebraska,NE,7035,39
+7/1/2020,United States,New Hampshire,7/1/2020,44013New Hampshire,NH,801,44
+7/1/2020,United States,New Jersey,7/1/2020,44013New Jersey,NJ,11286,784
+7/1/2020,United States,New Mexico,7/1/2020,44013New Mexico,NM,8453,135
+7/1/2020,United States,Nevada,7/1/2020,44013Nevada,NV,29628,327
+7/1/2020,United States,New York,7/1/2020,44013New York,NY,22310,470
+7/1/2020,United States,Ohio,7/1/2020,44013Ohio,OH,39370,626
+7/1/2020,United States,Oklahoma,7/1/2020,44013Oklahoma,OK,23629,229
+7/1/2020,United States,Oregon,7/1/2020,44013Oregon,OR,9837,115
+7/1/2020,United States,Pennsylvania,7/1/2020,44013Pennsylvania,PA,26017,517
+7/1/2020,United States,Rhode Island,7/1/2020,44013Rhode Island,RI,2235,53
+7/1/2020,United States,South Carolina,7/1/2020,44013South Carolina,SC,54265,941
+7/1/2020,United States,South Dakota,7/1/2020,44013South Dakota,SD,2000,39
+7/1/2020,United States,Tennessee,7/1/2020,44013Tennessee,TN,60768,441
+7/1/2020,United States,Texas,7/1/2020,44013Texas,TX,260960,6683
+7/1/2020,United States,Utah,7/1/2020,44013Utah,UT,18051,134
+7/1/2020,United States,Virginia,7/1/2020,44013Virginia,VA,28014,452
+7/1/2020,United States,Vermont,7/1/2020,44013Vermont,VT,192,2
+7/1/2020,United States,Washington,7/1/2020,44013Washington,WA,23919,232
+7/1/2020,United States,Wisconsin,7/1/2020,44013Wisconsin,WI,25272,150
+7/1/2020,United States,West Virginia,7/1/2020,44013West Virginia,WV,3737,23
+7/1/2020,United States,Wyoming,7/1/2020,44013Wyoming,WY,1239,6
+8/1/2020,United States,Alaska,8/1/2020,44044Alaska,AK,2297,19
+8/1/2020,United States,Alabama,8/1/2020,44044Alabama,AL,38010,1058
+8/1/2020,United States,Arkansas,8/1/2020,44044Arkansas,AR,18713,344
+8/1/2020,United States,Arizona,8/1/2020,44044Arizona,AZ,27856,1335
+8/1/2020,United States,California,8/1/2020,44044California,CA,210497,3818
+8/1/2020,United States,Colorado,8/1/2020,44044Colorado,CO,10638,107
+8/1/2020,United States,Connecticut,8/1/2020,44044Connecticut,CT,3069,33
+8/1/2020,United States,District of Columbia,8/1/2020,44044District of Columbia,DC,1866,22
+8/1/2020,United States,Delaware,8/1/2020,44044Delaware,DE,2439,20
+8/1/2020,United States,Florida,8/1/2020,44044Florida,FL,148790,5185
+8/1/2020,United States,Georgia,8/1/2020,44044Georgia,GA,90035,1881
+8/1/2020,United States,Hawaii,8/1/2020,44044Hawaii,HI,6450,44
+8/1/2020,United States,Iowa,8/1/2020,44044Iowa,IA,20241,249
+8/1/2020,United States,Idaho,8/1/2020,44044Idaho,ID,11367,172
+8/1/2020,United States,Illinois,8/1/2020,44044Illinois,IL,56607,543
+8/1/2020,United States,Indiana,8/1/2020,44044Indiana,IN,28042,332
+8/1/2020,United States,Kansas,8/1/2020,44044Kansas,KS,14800,88
+8/1/2020,United States,Kentucky,8/1/2020,44044Kentucky,KY,20202,301
+8/1/2020,United States,Louisiana,8/1/2020,44044Louisiana,LA,32614,1001
+8/1/2020,United States,Massachusetts,8/1/2020,44044Massachusetts,MA,8997,442
+8/1/2020,United States,Maryland,8/1/2020,44044Maryland,MD,19498,266
+8/1/2020,United States,Maine,8/1/2020,44044Maine,ME,611,9
+8/1/2020,United States,Michigan,8/1/2020,44044Michigan,MI,39178,290
+8/1/2020,United States,Minnesota,8/1/2020,44044Minnesota,MN,20676,220
+8/1/2020,United States,Missouri,8/1/2020,44044Missouri,MO,35304,486
+8/1/2020,United States,Mississippi,8/1/2020,44044Mississippi,MS,21714,608
+8/1/2020,United States,Montana,8/1/2020,44044Montana,MT,3528,45
+8/1/2020,United States,North Carolina,8/1/2020,44044North Carolina,NC,44929,881
+8/1/2020,United States,North Dakota,8/1/2020,44044North Dakota,ND,5398,42
+8/1/2020,United States,Nebraska,8/1/2020,44044Nebraska,NE,8196,84
+8/1/2020,United States,New Hampshire,8/1/2020,44044New Hampshire,NH,692,17
+8/1/2020,United States,New Jersey,8/1/2020,44044New Jersey,NJ,11506,126
+8/1/2020,United States,New Mexico,8/1/2020,44044New Mexico,NM,4752,125
+8/1/2020,United States,Nevada,8/1/2020,44044Nevada,NV,21172,478
+8/1/2020,United States,New York,8/1/2020,44044New York,NY,18821,253
+8/1/2020,United States,Ohio,8/1/2020,44044Ohio,OH,31998,649
+8/1/2020,United States,Oklahoma,8/1/2020,44044Oklahoma,OK,20734,361
+8/1/2020,United States,Oregon,8/1/2020,44044Oregon,OR,8220,137
+8/1/2020,United States,Pennsylvania,8/1/2020,44044Pennsylvania,PA,22644,469
+8/1/2020,United States,Rhode Island,8/1/2020,44044Rhode Island,RI,2804,52
+8/1/2020,United States,South Carolina,8/1/2020,44044South Carolina,SC,32971,1066
+8/1/2020,United States,South Dakota,8/1/2020,44044South Dakota,SD,4745,37
+8/1/2020,United States,Tennessee,8/1/2020,44044Tennessee,TN,49319,714
+8/1/2020,United States,Texas,8/1/2020,44044Texas,TX,192023,4830
+8/1/2020,United States,Utah,8/1/2020,44044Utah,UT,11995,101
+8/1/2020,United States,Virginia,8/1/2020,44044Virginia,VA,30814,397
+8/1/2020,United States,Vermont,8/1/2020,44044Vermont,VT,185,0
+8/1/2020,United States,Washington,8/1/2020,44044Washington,WA,18469,351
+8/1/2020,United States,Wisconsin,8/1/2020,44044Wisconsin,WI,23634,189
+8/1/2020,United States,West Virginia,8/1/2020,44044West Virginia,WV,3608,98
+8/1/2020,United States,Wyoming,8/1/2020,44044Wyoming,WY,1116,11
+9/1/2020,United States,Alaska,9/1/2020,44075Alaska,AK,2601,17
+9/1/2020,United States,Alabama,9/1/2020,44075Alabama,AL,27937,617
+9/1/2020,United States,Arkansas,9/1/2020,44075Arkansas,AR,22473,572
+9/1/2020,United States,Arizona,9/1/2020,44075Arizona,AZ,16702,621
+9/1/2020,United States,California,9/1/2020,44075California,CA,106540,2900
+9/1/2020,United States,Colorado,9/1/2020,44075Colorado,CO,13742,106
+9/1/2020,United States,Connecticut,9/1/2020,44075Connecticut,CT,4671,43
+9/1/2020,United States,District of Columbia,9/1/2020,44075District of Columbia,DC,1334,20
+9/1/2020,United States,Delaware,9/1/2020,44075Delaware,DE,3141,31
+9/1/2020,United States,Florida,9/1/2020,44075Florida,FL,77639,2271
+9/1/2020,United States,Georgia,9/1/2020,44075Georgia,GA,54948,1388
+9/1/2020,United States,Hawaii,9/1/2020,44075Hawaii,HI,3858,66
+9/1/2020,United States,Iowa,9/1/2020,44075Iowa,IA,24007,230
+9/1/2020,United States,Idaho,9/1/2020,44075Idaho,ID,9960,108
+9/1/2020,United States,Illinois,9/1/2020,44075Illinois,IL,59038,681
+9/1/2020,United States,Indiana,9/1/2020,44075Indiana,IN,25823,345
+9/1/2020,United States,Kansas,9/1/2020,44075Kansas,KS,17137,232
+9/1/2020,United States,Kentucky,9/1/2020,44075Kentucky,KY,20759,313
+9/1/2020,United States,Louisiana,9/1/2020,44075Louisiana,LA,18564,561
+9/1/2020,United States,Massachusetts,9/1/2020,44075Massachusetts,MA,11627,418
+9/1/2020,United States,Maryland,9/1/2020,44075Maryland,MD,16647,184
+9/1/2020,United States,Maine,9/1/2020,44075Maine,ME,883,10
+9/1/2020,United States,Michigan,9/1/2020,44075Michigan,MI,36796,290
+9/1/2020,United States,Minnesota,9/1/2020,44075Minnesota,MN,23270,223
+9/1/2020,United States,Missouri,9/1/2020,44075Missouri,MO,46213,644
+9/1/2020,United States,Mississippi,9/1/2020,44075Mississippi,MS,15005,379
+9/1/2020,United States,Montana,9/1/2020,44075Montana,MT,5900,76
+9/1/2020,United States,North Carolina,9/1/2020,44075North Carolina,NC,41311,852
+9/1/2020,United States,North Dakota,9/1/2020,44075North Dakota,ND,10218,111
+9/1/2020,United States,Nebraska,9/1/2020,44075Nebraska,NE,11262,81
+9/1/2020,United States,New Hampshire,9/1/2020,44075New Hampshire,NH,991,7
+9/1/2020,United States,New Jersey,9/1/2020,44075New Jersey,NJ,15118,177
+9/1/2020,United States,New Mexico,9/1/2020,44075New Mexico,NM,4083,88
+9/1/2020,United States,Nevada,9/1/2020,44075Nevada,NV,10601,308
+9/1/2020,United States,New York,9/1/2020,44075New York,NY,24678,214
+9/1/2020,United States,Ohio,9/1/2020,44075Ohio,OH,30830,666
+9/1/2020,United States,Oklahoma,9/1/2020,44075Oklahoma,OK,30917,346
+9/1/2020,United States,Oregon,9/1/2020,44075Oregon,OR,6796,100
+9/1/2020,United States,Pennsylvania,9/1/2020,44075Pennsylvania,PA,25399,469
+9/1/2020,United States,Rhode Island,9/1/2020,44075Rhode Island,RI,2958,47
+9/1/2020,United States,South Carolina,9/1/2020,44075South Carolina,SC,25766,611
+9/1/2020,United States,South Dakota,9/1/2020,44075South Dakota,SD,8880,56
+9/1/2020,United States,Tennessee,9/1/2020,44075Tennessee,TN,40951,673
+9/1/2020,United States,Texas,9/1/2020,44075Texas,TX,135998,2132
+9/1/2020,United States,Utah,9/1/2020,44075Utah,UT,20250,51
+9/1/2020,United States,Virginia,9/1/2020,44075Virginia,VA,27106,616
+9/1/2020,United States,Vermont,9/1/2020,44075Vermont,VT,127,0
+9/1/2020,United States,Washington,9/1/2020,44075Washington,WA,13687,211
+9/1/2020,United States,Wisconsin,9/1/2020,44075Wisconsin,WI,48555,207
+9/1/2020,United States,West Virginia,9/1/2020,44075West Virginia,WV,5598,136
+9/1/2020,United States,Wyoming,9/1/2020,44075Wyoming,WY,2106,13
+10/1/2020,United States,Alaska,10/1/2020,44105Alaska,AK,7507,47
+10/1/2020,United States,Alabama,10/1/2020,44105Alabama,AL,38091,595
+10/1/2020,United States,Arkansas,10/1/2020,44105Arkansas,AR,28493,556
+10/1/2020,United States,Arizona,10/1/2020,44105Arizona,AZ,27495,329
+10/1/2020,United States,California,10/1/2020,44105California,CA,111380,1948
+10/1/2020,United States,Colorado,10/1/2020,44105Colorado,CO,38758,234
+10/1/2020,United States,Connecticut,10/1/2020,44105Connecticut,CT,13657,108
+10/1/2020,United States,District of Columbia,10/1/2020,44105District of Columbia,DC,1940,19
+10/1/2020,United States,Delaware,10/1/2020,44105Delaware,DE,4380,74
+10/1/2020,United States,Florida,10/1/2020,44105Florida,FL,98404,1572
+10/1/2020,United States,Georgia,10/1/2020,44105Georgia,GA,53276,958
+10/1/2020,United States,Hawaii,10/1/2020,44105Hawaii,HI,2515,82
+10/1/2020,United States,Iowa,10/1/2020,44105Iowa,IA,39136,370
+10/1/2020,United States,Idaho,10/1/2020,44105Idaho,ID,22560,160
+10/1/2020,United States,Illinois,10/1/2020,44105Illinois,IL,120796,1124
+10/1/2020,United States,Indiana,10/1/2020,44105Indiana,IN,59339,693
+10/1/2020,United States,Kansas,10/1/2020,44105Kansas,KS,25432,351
+10/1/2020,United States,Kentucky,10/1/2020,44105Kentucky,KY,36226,532
+10/1/2020,United States,Louisiana,10/1/2020,44105Louisiana,LA,19191,408
+10/1/2020,United States,Massachusetts,10/1/2020,44105Massachusetts,MA,26460,542
+10/1/2020,United States,Maryland,10/1/2020,44105Maryland,MD,20635,226
+10/1/2020,United States,Maine,10/1/2020,44105Maine,ME,1237,5
+10/1/2020,United States,Michigan,10/1/2020,44105Michigan,MI,66505,672
+10/1/2020,United States,Minnesota,10/1/2020,44105Minnesota,MN,49338,422
+10/1/2020,United States,Missouri,10/1/2020,44105Missouri,MO,65625,980
+10/1/2020,United States,Mississippi,10/1/2020,44105Mississippi,MS,21304,436
+10/1/2020,United States,Montana,10/1/2020,44105Montana,MT,19408,194
+10/1/2020,United States,North Carolina,10/1/2020,44105North Carolina,NC,65059,900
+10/1/2020,United States,North Dakota,10/1/2020,44105North Dakota,ND,22825,275
+10/1/2020,United States,Nebraska,10/1/2020,44105Nebraska,NE,25957,174
+10/1/2020,United States,New Hampshire,10/1/2020,44105New Hampshire,NH,2818,44
+10/1/2020,United States,New Jersey,10/1/2020,44105New Jersey,NJ,39343,228
+10/1/2020,United States,New Mexico,10/1/2020,44105New Mexico,NM,17055,135
+10/1/2020,United States,Nevada,10/1/2020,44105Nevada,NV,20678,135
+10/1/2020,United States,New York,10/1/2020,44105New York,NY,50455,396
+10/1/2020,United States,Ohio,10/1/2020,44105Ohio,OH,61710,497
+10/1/2020,United States,Oklahoma,10/1/2020,44105Oklahoma,OK,39651,572
+10/1/2020,United States,Oregon,10/1/2020,44105Oregon,OR,11412,130
+10/1/2020,United States,Pennsylvania,10/1/2020,44105Pennsylvania,PA,49597,670
+10/1/2020,United States,Rhode Island,10/1/2020,44105Rhode Island,RI,8674,89
+10/1/2020,United States,South Carolina,10/1/2020,44105South Carolina,SC,28645,535
+10/1/2020,United States,South Dakota,10/1/2020,44105South Dakota,SD,23603,202
+10/1/2020,United States,Tennessee,10/1/2020,44105Tennessee,TN,64225,921
+10/1/2020,United States,Texas,10/1/2020,44105Texas,TX,151629,2559
+10/1/2020,United States,Utah,10/1/2020,44105Utah,UT,41614,145
+10/1/2020,United States,Virginia,10/1/2020,44105Virginia,VA,33672,427
+10/1/2020,United States,Vermont,10/1/2020,44105Vermont,VT,414,0
+10/1/2020,United States,Washington,10/1/2020,44105Washington,WA,21135,240
+10/1/2020,United States,Wisconsin,10/1/2020,44105Wisconsin,WI,108747,755
+10/1/2020,United States,West Virginia,10/1/2020,44105West Virginia,WV,8612,107
+10/1/2020,United States,Wyoming,10/1/2020,44105Wyoming,WY,7350,37
+11/1/2020,United States,Alaska,11/1/2020,44136Alaska,AK,16395,89
+11/1/2020,United States,Alabama,11/1/2020,44136Alabama,AL,58297,805
+11/1/2020,United States,Arkansas,11/1/2020,44136Arkansas,AR,45169,577
+11/1/2020,United States,Arizona,11/1/2020,44136Arizona,AZ,80961,660
+11/1/2020,United States,California,11/1/2020,44136California,CA,290963,1615
+11/1/2020,United States,Colorado,11/1/2020,44136Colorado,CO,135529,752
+11/1/2020,United States,Connecticut,11/1/2020,44136Connecticut,CT,46088,404
+11/1/2020,United States,District of Columbia,11/1/2020,44136District of Columbia,DC,4286,34
+11/1/2020,United States,Delaware,11/1/2020,44136Delaware,DE,11232,67
+11/1/2020,United States,Florida,11/1/2020,44136Florida,FL,193287,1955
+11/1/2020,United States,Georgia,11/1/2020,44136Georgia,GA,82570,1007
+11/1/2020,United States,Hawaii,11/1/2020,44136Hawaii,HI,2713,24
+11/1/2020,United States,Iowa,11/1/2020,44136Iowa,IA,101482,687
+11/1/2020,United States,Idaho,11/1/2020,44136Idaho,ID,37090,300
+11/1/2020,United States,Illinois,11/1/2020,44136Illinois,IL,309745,2945
+11/1/2020,United States,Indiana,11/1/2020,44136Indiana,IN,159628,1386
+11/1/2020,United States,Kansas,11/1/2020,44136Kansas,KS,72265,531
+11/1/2020,United States,Kentucky,11/1/2020,44136Kentucky,KY,75948,1044
+11/1/2020,United States,Louisiana,11/1/2020,44136Louisiana,LA,45765,501
+11/1/2020,United States,Massachusetts,11/1/2020,44136Massachusetts,MA,67556,820
+11/1/2020,United States,Maryland,11/1/2020,44136Maryland,MD,54990,591
+11/1/2020,United States,Maine,11/1/2020,44136Maine,ME,5308,67
+11/1/2020,United States,Michigan,11/1/2020,44136Michigan,MI,173167,2377
+11/1/2020,United States,Minnesota,11/1/2020,44136Minnesota,MN,170291,1141
+11/1/2020,United States,Missouri,11/1/2020,44136Missouri,MO,135242,1599
+11/1/2020,United States,Mississippi,11/1/2020,44136Mississippi,MS,36049,719
+11/1/2020,United States,Montana,11/1/2020,44136Montana,MT,29397,306
+11/1/2020,United States,North Carolina,11/1/2020,44136North Carolina,NC,94592,1119
+11/1/2020,United States,North Dakota,11/1/2020,44136North Dakota,ND,34612,423
+11/1/2020,United States,Nebraska,11/1/2020,44136Nebraska,NE,55761,366
+11/1/2020,United States,New Hampshire,11/1/2020,44136New Hampshire,NH,9910,43
+11/1/2020,United States,New Jersey,11/1/2020,44136New Jersey,NJ,117852,643
+11/1/2020,United States,New Mexico,11/1/2020,44136New Mexico,NM,50605,535
+11/1/2020,United States,Nevada,11/1/2020,44136Nevada,NV,51406,367
+11/1/2020,United States,New York,11/1/2020,44136New York,NY,146148,1068
+11/1/2020,United States,Ohio,11/1/2020,44136Ohio,OH,205366,1128
+11/1/2020,United States,Oklahoma,11/1/2020,44136Oklahoma,OK,85987,1002
+11/1/2020,United States,Oregon,11/1/2020,44136Oregon,OR,30510,223
+11/1/2020,United States,Pennsylvania,11/1/2020,44136Pennsylvania,PA,154983,1571
+11/1/2020,United States,Rhode Island,11/1/2020,44136Rhode Island,RI,23455,198
+11/1/2020,United States,South Carolina,11/1/2020,44136South Carolina,SC,42876,490
+11/1/2020,United States,South Dakota,11/1/2020,44136South Dakota,SD,34472,521
+11/1/2020,United States,Tennessee,11/1/2020,44136Tennessee,TN,107917,1213
+11/1/2020,United States,Texas,11/1/2020,44136Texas,TX,310361,4784
+11/1/2020,United States,Utah,11/1/2020,44136Utah,UT,81050,267
+11/1/2020,United States,Virginia,11/1/2020,44136Virginia,VA,57671,438
+11/1/2020,United States,Vermont,11/1/2020,44136Vermont,VT,2013,15
+11/1/2020,United States,Washington,11/1/2020,44136Washington,WA,59558,408
+11/1/2020,United States,Wisconsin,11/1/2020,44136Wisconsin,WI,173860,1402
+11/1/2020,United States,West Virginia,11/1/2020,44136West Virginia,WV,23382,278
+11/1/2020,United States,Wyoming,11/1/2020,44136Wyoming,WY,20007,128
+12/1/2020,United States,Alaska,12/1/2020,44166Alaska,AK,13978,76
+12/1/2020,United States,Alabama,12/1/2020,44166Alabama,AL,111970,1806
+12/1/2020,United States,Arkansas,12/1/2020,44166Arkansas,AR,67779,1174
+12/1/2020,United States,Arizona,12/1/2020,44166Arizona,AZ,193483,2225
+12/1/2020,United States,California,12/1/2020,44166California,CA,1018584,6154
+12/1/2020,United States,Colorado,12/1/2020,44166Colorado,CO,100744,1777
+12/1/2020,United States,Connecticut,12/1/2020,44166Connecticut,CT,68413,975
+12/1/2020,United States,District of Columbia,12/1/2020,44166District of Columbia,DC,7431,106
+12/1/2020,United States,Delaware,12/1/2020,44166Delaware,DE,22329,153
+12/1/2020,United States,Florida,12/1/2020,44166Florida,FL,328608,3488
+12/1/2020,United States,Georgia,12/1/2020,44166Georgia,GA,194889,1482
+12/1/2020,United States,Hawaii,12/1/2020,44166Hawaii,HI,3318,44
+12/1/2020,United States,Iowa,12/1/2020,44166Iowa,IA,51221,1488
+12/1/2020,United States,Idaho,12/1/2020,44166Idaho,ID,39379,507
+12/1/2020,United States,Illinois,12/1/2020,44166Illinois,IL,237085,4993
+12/1/2020,United States,Indiana,12/1/2020,44166Indiana,IN,172712,2534
+12/1/2020,United States,Kansas,12/1/2020,44166Kansas,KS,64987,1181
+12/1/2020,United States,Kentucky,12/1/2020,44166Kentucky,KY,89248,1700
+12/1/2020,United States,Louisiana,12/1/2020,44166Louisiana,LA,82861,1068
+12/1/2020,United States,Massachusetts,12/1/2020,44166Massachusetts,MA,149046,1765
+12/1/2020,United States,Maryland,12/1/2020,44166Maryland,MD,79084,1404
+12/1/2020,United States,Maine,12/1/2020,44166Maine,ME,12225,133
+12/1/2020,United States,Michigan,12/1/2020,44166Michigan,MI,107516,3642
+12/1/2020,United States,Minnesota,12/1/2020,44166Minnesota,MN,96539,1730
+12/1/2020,United States,Missouri,12/1/2020,44166Missouri,MO,111450,1752
+12/1/2020,United States,Mississippi,12/1/2020,44166Mississippi,MS,63076,1241
+12/1/2020,United States,Montana,12/1/2020,44166Montana,MT,19357,280
+12/1/2020,United States,North Carolina,12/1/2020,44166North Carolina,NC,199152,2047
+12/1/2020,United States,North Dakota,12/1/2020,44166North Dakota,ND,13115,355
+12/1/2020,United States,Nebraska,12/1/2020,44166Nebraska,NE,39891,633
+12/1/2020,United States,New Hampshire,12/1/2020,44166New Hampshire,NH,23034,232
+12/1/2020,United States,New Jersey,12/1/2020,44166New Jersey,NJ,160001,2049
+12/1/2020,United States,New Mexico,12/1/2020,44166New Mexico,NM,45769,888
+12/1/2020,United States,Nevada,12/1/2020,44166Nevada,NV,72562,981
+12/1/2020,United States,New York,12/1/2020,44166New York,NY,332116,3592
+12/1/2020,United States,Ohio,12/1/2020,44166Ohio,OH,279317,2533
+12/1/2020,United States,Oklahoma,12/1/2020,44166Oklahoma,OK,105592,1616
+12/1/2020,United States,Oregon,12/1/2020,44166Oregon,OR,38478,565
+12/1/2020,United States,Pennsylvania,12/1/2020,44166Pennsylvania,PA,278875,5595
+12/1/2020,United States,Rhode Island,12/1/2020,44166Rhode Island,RI,32651,503
+12/1/2020,United States,South Carolina,12/1/2020,44166South Carolina,SC,97249,912
+12/1/2020,United States,South Dakota,12/1/2020,44166South Dakota,SD,18700,542
+12/1/2020,United States,Tennessee,12/1/2020,44166Tennessee,TN,211265,2256
+12/1/2020,United States,Texas,12/1/2020,44166Texas,TX,477740,7027
+12/1/2020,United States,Utah,12/1/2020,44166Utah,UT,80906,398
+12/1/2020,United States,Virginia,12/1/2020,44166Virginia,VA,114703,988
+12/1/2020,United States,Vermont,12/1/2020,44166Vermont,VT,2932,73
+12/1/2020,United States,Washington,12/1/2020,44166Washington,WA,76819,687
+12/1/2020,United States,Wisconsin,12/1/2020,44166Wisconsin,WI,108708,1748
+12/1/2020,United States,West Virginia,12/1/2020,44166West Virginia,WV,37492,603
+12/1/2020,United States,Wyoming,12/1/2020,44166Wyoming,WY,11104,223
+1/1/2021,United States,Alaska,1/1/2021,44197Alaska,AK,6991,27
+1/1/2021,United States,Alabama,1/1/2021,44197Alabama,AL,97187,2398
+1/1/2021,United States,Arkansas,1/1/2021,44197Arkansas,AR,70130,1192
+1/1/2021,United States,Arizona,1/1/2021,44197Arizona,AZ,238290,4256
+1/1/2021,United States,California,1/1/2021,44197California,CA,1011796,14539
+1/1/2021,United States,Colorado,1/1/2021,44197Colorado,CO,59309,780
+1/1/2021,United States,Connecticut,1/1/2021,44197Connecticut,CT,64315,1051
+1/1/2021,United States,District of Columbia,1/1/2021,44197District of Columbia,DC,7889,127
+1/1/2021,United States,Delaware,1/1/2021,44197Delaware,DE,20976,160
+1/1/2021,United States,Florida,1/1/2021,44197Florida,FL,374382,5473
+1/1/2021,United States,Georgia,1/1/2021,44197Georgia,GA,242993,3264
+1/1/2021,United States,Hawaii,1/1/2021,44197Hawaii,HI,4176,121
+1/1/2021,United States,Iowa,1/1/2021,44197Iowa,IA,38578,1010
+1/1/2021,United States,Idaho,1/1/2021,44197Idaho,ID,21606,289
+1/1/2021,United States,Illinois,1/1/2021,44197Illinois,IL,162912,3275
+1/1/2021,United States,Indiana,1/1/2021,44197Indiana,IN,115569,2813
+1/1/2021,United States,Kansas,1/1/2021,44197Kansas,KS,52252,1038
+1/1/2021,United States,Kentucky,1/1/2021,44197Kentucky,KY,95182,1322
+1/1/2021,United States,Louisiana,1/1/2021,44197Louisiana,LA,85351,1371
+1/1/2021,United States,Massachusetts,1/1/2021,44197Massachusetts,MA,148847,2219
+1/1/2021,United States,Maryland,1/1/2021,44197Maryland,MD,75417,1315
+1/1/2021,United States,Maine,1/1/2021,44197Maine,ME,15341,248
+1/1/2021,United States,Michigan,1/1/2021,44197Michigan,MI,63934,2008
+1/1/2021,United States,Minnesota,1/1/2021,44197Minnesota,MN,46505,886
+1/1/2021,United States,Missouri,1/1/2021,44197Missouri,MO,76800,1249
+1/1/2021,United States,Mississippi,1/1/2021,44197Mississippi,MS,55973,1048
+1/1/2021,United States,Montana,1/1/2021,44197Montana,MT,12394,272
+1/1/2021,United States,North Carolina,1/1/2021,44197North Carolina,NC,208314,3018
+1/1/2021,United States,North Dakota,1/1/2021,44197North Dakota,ND,4913,113
+1/1/2021,United States,Nebraska,1/1/2021,44197Nebraska,NE,24421,270
+1/1/2021,United States,New Hampshire,1/1/2021,44197New Hampshire,NH,21667,299
+1/1/2021,United States,New Jersey,1/1/2021,44197New Jersey,NJ,169045,2442
+1/1/2021,United States,New Mexico,1/1/2021,44197New Mexico,NM,31200,794
+1/1/2021,United States,Nevada,1/1/2021,44197Nevada,NV,53577,1145
+1/1/2021,United States,New York,1/1/2021,44197New York,NY,438505,5785
+1/1/2021,United States,Ohio,1/1/2021,44197Ohio,OH,195412,2213
+1/1/2021,United States,Oklahoma,1/1/2021,44197Oklahoma,OK,83375,1678
+1/1/2021,United States,Oregon,1/1/2021,44197Oregon,OR,28507,480
+1/1/2021,United States,Pennsylvania,1/1/2021,44197Pennsylvania,PA,202380,5624
+1/1/2021,United States,Rhode Island,1/1/2021,44197Rhode Island,RI,26068,435
+1/1/2021,United States,South Carolina,1/1/2021,44197South Carolina,SC,147068,1733
+1/1/2021,United States,South Dakota,1/1/2021,44197South Dakota,SD,9086,290
+1/1/2021,United States,Tennessee,1/1/2021,44197Tennessee,TN,143113,2764
+1/1/2021,United States,Texas,1/1/2021,44197Texas,TX,604460,9907
+1/1/2021,United States,Utah,1/1/2021,44197Utah,UT,70012,396
+1/1/2021,United States,Virginia,1/1/2021,44197Virginia,VA,152873,1393
+1/1/2021,United States,Vermont,1/1/2021,44197Vermont,VT,4109,34
+1/1/2021,United States,Washington,1/1/2021,44197Washington,WA,66279,824
+1/1/2021,United States,Wisconsin,1/1/2021,44197Wisconsin,WI,71702,1192
+1/1/2021,United States,West Virginia,1/1/2021,44197West Virginia,WV,35667,686
+1/1/2021,United States,Wyoming,1/1/2021,44197Wyoming,WY,7503,158
+2/1/2021,United States,Alaska,2/1/2021,44228Alaska,AK,3569,15
+2/1/2021,United States,Alabama,2/1/2021,44228Alabama,AL,33900,970
+2/1/2021,United States,Arkansas,2/1/2021,44228Arkansas,AR,27147,375
+2/1/2021,United States,Arizona,2/1/2021,44228Arizona,AZ,58558,2860
+2/1/2021,United States,California,2/1/2021,44228California,CA,232214,11881
+2/1/2021,United States,Colorado,2/1/2021,44228Colorado,CO,31561,357
+2/1/2021,United States,Connecticut,2/1/2021,44228Connecticut,CT,29923,576
+2/1/2021,United States,District of Columbia,2/1/2021,44228District of Columbia,DC,3726,104
+2/1/2021,United States,Delaware,2/1/2021,44228Delaware,DE,8888,332
+2/1/2021,United States,Florida,2/1/2021,44228Florida,FL,179441,3452
+2/1/2021,United States,Georgia,2/1/2021,44228Georgia,GA,97076,3097
+2/1/2021,United States,Hawaii,2/1/2021,44228Hawaii,HI,1687,29
+2/1/2021,United States,Iowa,2/1/2021,44228Iowa,IA,17082,570
+2/1/2021,United States,Idaho,2/1/2021,44228Idaho,ID,8457,135
+2/1/2021,United States,Illinois,2/1/2021,44228Illinois,IL,60395,1482
+2/1/2021,United States,Indiana,2/1/2021,44228Indiana,IN,35331,1489
+2/1/2021,United States,Kansas,2/1/2021,44228Kansas,KS,18978,956
+2/1/2021,United States,Kentucky,2/1/2021,44228Kentucky,KY,40218,618
+2/1/2021,United States,Louisiana,2/1/2021,44228Louisiana,LA,29474,749
+2/1/2021,United States,Massachusetts,2/1/2021,44228Massachusetts,MA,57123,1387
+2/1/2021,United States,Maryland,2/1/2021,44228Maryland,MD,27066,770
+2/1/2021,United States,Maine,2/1/2021,44228Maine,ME,5221,108
+2/1/2021,United States,Michigan,2/1/2021,44228Michigan,MI,34918,820
+2/1/2021,United States,Minnesota,2/1/2021,44228Minnesota,MN,22787,283
+2/1/2021,United States,Missouri,2/1/2021,44228Missouri,MO,24690,463
+2/1/2021,United States,Mississippi,2/1/2021,44228Mississippi,MS,18619,329
+2/1/2021,United States,Montana,2/1/2021,44228Montana,MT,6005,124
+2/1/2021,United States,North Carolina,2/1/2021,44228North Carolina,NC,82769,1331
+2/1/2021,United States,North Dakota,2/1/2021,44228North Dakota,ND,2169,23
+2/1/2021,United States,Nebraska,2/1/2021,44228Nebraska,NE,9801,161
+2/1/2021,United States,New Hampshire,2/1/2021,44228New Hampshire,NH,9729,113
+2/1/2021,United States,New Jersey,2/1/2021,44228New Jersey,NJ,92527,1768
+2/1/2021,United States,New Mexico,2/1/2021,44228New Mexico,NM,11068,422
+2/1/2021,United States,Nevada,2/1/2021,44228Nevada,NV,15446,687
+2/1/2021,United States,New York,2/1/2021,44228New York,NY,221348,3997
+2/1/2021,United States,Ohio,2/1/2021,44228Ohio,OH,71630,2359
+2/1/2021,United States,Oklahoma,2/1/2021,44228Oklahoma,OK,24269,671
+2/1/2021,United States,Oregon,2/1/2021,44228Oregon,OR,13181,251
+2/1/2021,United States,Pennsylvania,2/1/2021,44228Pennsylvania,PA,86864,2419
+2/1/2021,United States,Rhode Island,2/1/2021,44228Rhode Island,RI,10582,193
+2/1/2021,United States,South Carolina,2/1/2021,44228South Carolina,SC,59113,1467
+2/1/2021,United States,South Dakota,2/1/2021,44228South Dakota,SD,4177,110
+2/1/2021,United States,Tennessee,2/1/2021,44228Tennessee,TN,48631,1819
+2/1/2021,United States,Texas,2/1/2021,44228Texas,TX,283392,5213
+2/1/2021,United States,Utah,2/1/2021,44228Utah,UT,24611,270
+2/1/2021,United States,Virginia,2/1/2021,44228Virginia,VA,69534,2309
+2/1/2021,United States,Vermont,2/1/2021,44228Vermont,VT,2969,25
+2/1/2021,United States,Washington,2/1/2021,44228Washington,WA,27424,671
+2/1/2021,United States,Wisconsin,2/1/2021,44228Wisconsin,WI,25227,580
+2/1/2021,United States,West Virginia,2/1/2021,44228West Virginia,WV,10854,276
+2/1/2021,United States,Wyoming,2/1/2021,44228Wyoming,WY,2482,75
+3/1/2021,United States,Alaska,3/1/2021,44256Alaska,AK,4207,17
+3/1/2021,United States,Alabama,3/1/2021,44256Alabama,AL,22512,387
+3/1/2021,United States,Arkansas,3/1/2021,44256Arkansas,AR,7983,383
+3/1/2021,United States,Arizona,3/1/2021,44256Arizona,AZ,25029,987
+3/1/2021,United States,California,3/1/2021,44256California,CA,92864,6142
+3/1/2021,United States,Colorado,3/1/2021,44256Colorado,CO,32085,156
+3/1/2021,United States,Connecticut,3/1/2021,44256Connecticut,CT,30942,264
+3/1/2021,United States,District of Columbia,3/1/2021,44256District of Columbia,DC,3915,47
+3/1/2021,United States,Delaware,3/1/2021,44256Delaware,DE,7193,137
+3/1/2021,United States,Florida,3/1/2021,44256Florida,FL,151481,1946
+3/1/2021,United States,Georgia,3/1/2021,44256Georgia,GA,53027,1760
+3/1/2021,United States,Hawaii,3/1/2021,44256Hawaii,HI,2306,24
+3/1/2021,United States,Iowa,3/1/2021,44256Iowa,IA,14670,272
+3/1/2021,United States,Idaho,3/1/2021,44256Idaho,ID,9396,102
+3/1/2021,United States,Illinois,3/1/2021,44256Illinois,IL,57889,844
+3/1/2021,United States,Indiana,3/1/2021,44256Indiana,IN,25339,474
+3/1/2021,United States,Kansas,3/1/2021,44256Kansas,KS,8709,178
+3/1/2021,United States,Kentucky,3/1/2021,44256Kentucky,KY,19255,226
+3/1/2021,United States,Louisiana,3/1/2021,44256Louisiana,LA,14833,533
+3/1/2021,United States,Massachusetts,3/1/2021,44256Massachusetts,MA,54432,1024
+3/1/2021,United States,Maryland,3/1/2021,44256Maryland,MD,30226,457
+3/1/2021,United States,Maine,3/1/2021,44256Maine,ME,6025,40
+3/1/2021,United States,Michigan,3/1/2021,44256Michigan,MI,110358,661
+3/1/2021,United States,Minnesota,3/1/2021,44256Minnesota,MN,34044,237
+3/1/2021,United States,Missouri,3/1/2021,44256Missouri,MO,17032,236
+3/1/2021,United States,Mississippi,3/1/2021,44256Mississippi,MS,9712,178
+3/1/2021,United States,Montana,3/1/2021,44256Montana,MT,4598,80
+3/1/2021,United States,North Carolina,3/1/2021,44256North Carolina,NC,51667,452
+3/1/2021,United States,North Dakota,3/1/2021,44256North Dakota,ND,3447,21
+3/1/2021,United States,Nebraska,3/1/2021,44256Nebraska,NE,9560,98
+3/1/2021,United States,New Hampshire,3/1/2021,44256New Hampshire,NH,8752,68
+3/1/2021,United States,New Jersey,3/1/2021,44256New Jersey,NJ,119460,1309
+3/1/2021,United States,New Mexico,3/1/2021,44256New Mexico,NM,6520,224
+3/1/2021,United States,Nevada,3/1/2021,44256Nevada,NV,10008,292
+3/1/2021,United States,New York,3/1/2021,44256New York,NY,227820,2652
+3/1/2021,United States,Ohio,3/1/2021,44256Ohio,OH,50144,1314
+3/1/2021,United States,Oklahoma,3/1/2021,44256Oklahoma,OK,9213,237
+3/1/2021,United States,Oregon,3/1/2021,44256Oregon,OR,9415,175
+3/1/2021,United States,Pennsylvania,3/1/2021,44256Pennsylvania,PA,93719,1072
+3/1/2021,United States,Rhode Island,3/1/2021,44256Rhode Island,RI,11182,86
+3/1/2021,United States,South Carolina,3/1/2021,44256South Carolina,SC,30396,597
+3/1/2021,United States,South Dakota,3/1/2021,44256South Dakota,SD,5332,47
+3/1/2021,United States,Tennessee,3/1/2021,44256Tennessee,TN,36686,511
+3/1/2021,United States,Texas,3/1/2021,44256Texas,TX,139281,2322
+3/1/2021,United States,Utah,3/1/2021,44256Utah,UT,14406,187
+3/1/2021,United States,Virginia,3/1/2021,44256Virginia,VA,43628,1486
+3/1/2021,United States,Vermont,3/1/2021,44256Vermont,VT,3924,19
+3/1/2021,United States,Washington,3/1/2021,44256Washington,WA,24184,291
+3/1/2021,United States,Wisconsin,3/1/2021,44256Wisconsin,WI,18674,301
+3/1/2021,United States,West Virginia,3/1/2021,44256West Virginia,WV,9883,211
+3/1/2021,United States,Wyoming,3/1/2021,44256Wyoming,WY,1916,29
+4/1/2021,United States,Alaska,4/1/2021,44287Alaska,AK,4871,1
+4/1/2021,United States,Alabama,4/1/2021,44287Alabama,AL,12849,213
+4/1/2021,United States,Arkansas,4/1/2021,44287Arkansas,AR,5327,113
+4/1/2021,United States,Arizona,4/1/2021,44287Arizona,AZ,20061,357
+4/1/2021,United States,California,4/1/2021,44287California,CA,69706,2531
+4/1/2021,United States,Colorado,4/1/2021,44287Colorado,CO,48533,188
+4/1/2021,United States,Connecticut,4/1/2021,44287Connecticut,CT,28345,211
+4/1/2021,United States,District of Columbia,4/1/2021,44287District of Columbia,DC,3184,41
+4/1/2021,United States,Delaware,4/1/2021,44287Delaware,DE,9353,66
+4/1/2021,United States,Florida,4/1/2021,44287Florida,FL,170873,1579
+4/1/2021,United States,Georgia,4/1/2021,44287Georgia,GA,40639,1135
+4/1/2021,United States,Hawaii,4/1/2021,44287Hawaii,HI,2915,20
+4/1/2021,United States,Iowa,4/1/2021,44287Iowa,IA,13843,207
+4/1/2021,United States,Idaho,4/1/2021,44287Idaho,ID,7120,84
+4/1/2021,United States,Illinois,4/1/2021,44287Illinois,IL,90470,712
+4/1/2021,United States,Indiana,4/1/2021,44287Indiana,IN,32488,293
+4/1/2021,United States,Kansas,4/1/2021,44287Kansas,KS,6758,69
+4/1/2021,United States,Kentucky,4/1/2021,44287Kentucky,KY,16341,154
+4/1/2021,United States,Louisiana,4/1/2021,44287Louisiana,LA,13648,241
+4/1/2021,United States,Massachusetts,4/1/2021,44287Massachusetts,MA,53393,367
+4/1/2021,United States,Maryland,4/1/2021,44287Maryland,MD,35412,487
+4/1/2021,United States,Maine,4/1/2021,44287Maine,ME,10742,41
+4/1/2021,United States,Michigan,4/1/2021,44287Michigan,MI,157899,1862
+4/1/2021,United States,Minnesota,4/1/2021,44287Minnesota,MN,56283,311
+4/1/2021,United States,Missouri,4/1/2021,44287Missouri,MO,17582,155
+4/1/2021,United States,Mississippi,4/1/2021,44287Mississippi,MS,6746,115
+4/1/2021,United States,Montana,4/1/2021,44287Montana,MT,4193,108
+4/1/2021,United States,North Carolina,4/1/2021,44287North Carolina,NC,53852,331
+4/1/2021,United States,North Dakota,4/1/2021,44287North Dakota,ND,4340,28
+4/1/2021,United States,Nebraska,4/1/2021,44287Nebraska,NE,9251,65
+4/1/2021,United States,New Hampshire,4/1/2021,44287New Hampshire,NH,10710,65
+4/1/2021,United States,New Jersey,4/1/2021,44287New Jersey,NJ,97412,993
+4/1/2021,United States,New Mexico,4/1/2021,44287New Mexico,NM,6081,130
+4/1/2021,United States,Nevada,4/1/2021,44287Nevada,NV,11676,215
+4/1/2021,United States,New York,4/1/2021,44287New York,NY,170510,1945
+4/1/2021,United States,Ohio,4/1/2021,44287Ohio,OH,54746,673
+4/1/2021,United States,Oklahoma,4/1/2021,44287Oklahoma,OK,6789,106
+4/1/2021,United States,Oregon,4/1/2021,44287Oregon,OR,19800,112
+4/1/2021,United States,Pennsylvania,4/1/2021,44287Pennsylvania,PA,125866,1125
+4/1/2021,United States,Rhode Island,4/1/2021,44287Rhode Island,RI,10612,52
+4/1/2021,United States,South Carolina,4/1/2021,44287South Carolina,SC,25195,355
+4/1/2021,United States,South Dakota,4/1/2021,44287South Dakota,SD,4901,32
+4/1/2021,United States,Tennessee,4/1/2021,44287Tennessee,TN,36341,293
+4/1/2021,United States,Texas,4/1/2021,44287Texas,TX,99922,1221
+4/1/2021,United States,Utah,4/1/2021,44287Utah,UT,11682,80
+4/1/2021,United States,Virginia,4/1/2021,44287Virginia,VA,39751,508
+4/1/2021,United States,Vermont,4/1/2021,44287Vermont,VT,3504,19
+4/1/2021,United States,Washington,4/1/2021,44287Washington,WA,38608,252
+4/1/2021,United States,Wisconsin,4/1/2021,44287Wisconsin,WI,24409,235
+4/1/2021,United States,West Virginia,4/1/2021,44287West Virginia,WV,11390,3
+4/1/2021,United States,Wyoming,4/1/2021,44287Wyoming,WY,1832,7
+5/1/2021,United States,Alaska,5/1/2021,44317Alaska,AK,2072,21
+5/1/2021,United States,Alabama,5/1/2021,44317Alabama,AL,15769,208
+5/1/2021,United States,Arkansas,5/1/2021,44317Arkansas,AR,5656,94
+5/1/2021,United States,Arizona,5/1/2021,44317Arizona,AZ,18953,304
+5/1/2021,United States,California,5/1/2021,44317California,CA,46900,1544
+5/1/2021,United States,Colorado,5/1/2021,44317Colorado,CO,30505,285
+5/1/2021,United States,Connecticut,5/1/2021,44317Connecticut,CT,8273,141
+5/1/2021,United States,District of Columbia,5/1/2021,44317District of Columbia,DC,1234,27
+5/1/2021,United States,Delaware,5/1/2021,44317Delaware,DE,3619,36
+5/1/2021,United States,Florida,5/1/2021,44317Florida,FL,87130,1426
+5/1/2021,United States,Georgia,5/1/2021,44317Georgia,GA,23654,647
+5/1/2021,United States,Hawaii,5/1/2021,44317Hawaii,HI,2341,17
+5/1/2021,United States,Iowa,5/1/2021,44317Iowa,IA,6582,105
+5/1/2021,United States,Idaho,5/1/2021,44317Idaho,ID,4422,44
+5/1/2021,United States,Illinois,5/1/2021,44317Illinois,IL,47131,932
+5/1/2021,United States,Indiana,5/1/2021,44317Indiana,IN,23723,296
+5/1/2021,United States,Kansas,5/1/2021,44317Kansas,KS,5182,94
+5/1/2021,United States,Kentucky,5/1/2021,44317Kentucky,KY,11881,157
+5/1/2021,United States,Louisiana,5/1/2021,44317Louisiana,LA,12836,194
+5/1/2021,United States,Massachusetts,5/1/2021,44317Massachusetts,MA,18064,262
+5/1/2021,United States,Maryland,5/1/2021,44317Maryland,MD,11604,300
+5/1/2021,United States,Maine,5/1/2021,44317Maine,ME,6289,41
+5/1/2021,United States,Michigan,5/1/2021,44317Michigan,MI,39926,1440
+5/1/2021,United States,Minnesota,5/1/2021,44317Minnesota,MN,25638,282
+5/1/2021,United States,Missouri,5/1/2021,44317Missouri,MO,14044,121
+5/1/2021,United States,Mississippi,5/1/2021,44317Mississippi,MS,5132,100
+5/1/2021,United States,Montana,5/1/2021,44317Montana,MT,3012,42
+5/1/2021,United States,North Carolina,5/1/2021,44317North Carolina,NC,29807,345
+5/1/2021,United States,North Dakota,5/1/2021,44317North Dakota,ND,2323,18
+5/1/2021,United States,Nebraska,5/1/2021,44317Nebraska,NE,3255,4
+5/1/2021,United States,New Hampshire,5/1/2021,44317New Hampshire,NH,3860,50
+5/1/2021,United States,New Jersey,5/1/2021,44317New Jersey,NJ,19109,658
+5/1/2021,United States,New Mexico,5/1/2021,44317New Mexico,NM,5415,87
+5/1/2021,United States,Nevada,5/1/2021,44317Nevada,NV,8694,122
+5/1/2021,United States,New York,5/1/2021,44317New York,NY,51922,1018
+5/1/2021,United States,Ohio,5/1/2021,44317Ohio,OH,29932,577
+5/1/2021,United States,Oklahoma,5/1/2021,44317Oklahoma,OK,4072,60
+5/1/2021,United States,Oregon,5/1/2021,44317Oregon,OR,16663,176
+5/1/2021,United States,Pennsylvania,5/1/2021,44317Pennsylvania,PA,50716,996
+5/1/2021,United States,Rhode Island,5/1/2021,44317Rhode Island,RI,3530,37
+5/1/2021,United States,South Carolina,5/1/2021,44317South Carolina,SC,13523,244
+5/1/2021,United States,South Dakota,5/1/2021,44317South Dakota,SD,1531,47
+5/1/2021,United States,Tennessee,5/1/2021,44317Tennessee,TN,18133,249
+5/1/2021,United States,Texas,5/1/2021,44317Texas,TX,60617,983
+5/1/2021,United States,Utah,5/1/2021,44317Utah,UT,8847,100
+5/1/2021,United States,Virginia,5/1/2021,44317Virginia,VA,15044,417
+5/1/2021,United States,Vermont,5/1/2021,44317Vermont,VT,1185,6
+5/1/2021,United States,Washington,5/1/2021,44317Washington,WA,33767,266
+5/1/2021,United States,Wisconsin,5/1/2021,44317Wisconsin,WI,13970,306
+5/1/2021,United States,West Virginia,5/1/2021,44317West Virginia,WV,8585,113
+5/1/2021,United States,Wyoming,5/1/2021,44317Wyoming,WY,2164,12
+6/1/2021,United States,Alaska,6/1/2021,44348Alaska,AK,898,8
+6/1/2021,United States,Alabama,6/1/2021,44348Alabama,AL,5598,126
+6/1/2021,United States,Arkansas,6/1/2021,44348Arkansas,AR,8004,76
+6/1/2021,United States,Arizona,6/1/2021,44348Arizona,AZ,13425,308
+6/1/2021,United States,California,6/1/2021,44348California,CA,25422,1012
+6/1/2021,United States,Colorado,6/1/2021,44348Colorado,CO,11133,214
+6/1/2021,United States,Connecticut,6/1/2021,44348Connecticut,CT,1846,40
+6/1/2021,United States,District of Columbia,6/1/2021,44348District of Columbia,DC,382,9
+6/1/2021,United States,Delaware,6/1/2021,44348Delaware,DE,868,25
+6/1/2021,United States,Florida,6/1/2021,44348Florida,FL,52526,899
+6/1/2021,United States,Georgia,6/1/2021,44348Georgia,GA,10732,586
+6/1/2021,United States,Hawaii,6/1/2021,44348Hawaii,HI,1356,17
+6/1/2021,United States,Iowa,6/1/2021,44348Iowa,IA,2437,83
+6/1/2021,United States,Idaho,6/1/2021,44348Idaho,ID,2920,62
+6/1/2021,United States,Illinois,6/1/2021,44348Illinois,IL,9553,451
+6/1/2021,United States,Indiana,6/1/2021,44348Indiana,IN,9779,239
+6/1/2021,United States,Kansas,6/1/2021,44348Kansas,KS,3794,80
+6/1/2021,United States,Kentucky,6/1/2021,44348Kentucky,KY,5534,119
+6/1/2021,United States,Louisiana,6/1/2021,44348Louisiana,LA,9586,162
+6/1/2021,United States,Massachusetts,6/1/2021,44348Massachusetts,MA,2929,122
+6/1/2021,United States,Maryland,6/1/2021,44348Maryland,MD,2410,130
+6/1/2021,United States,Maine,6/1/2021,44348Maine,ME,1235,34
+6/1/2021,United States,Michigan,6/1/2021,44348Michigan,MI,6259,438
+6/1/2021,United States,Minnesota,6/1/2021,44348Minnesota,MN,3915,168
+6/1/2021,United States,Missouri,6/1/2021,44348Missouri,MO,20308,235
+6/1/2021,United States,Mississippi,6/1/2021,44348Mississippi,MS,4189,70
+6/1/2021,United States,Montana,6/1/2021,44348Montana,MT,1926,52
+6/1/2021,United States,North Carolina,6/1/2021,44348North Carolina,NC,12213,166
+6/1/2021,United States,North Dakota,6/1/2021,44348North Dakota,ND,756,16
+6/1/2021,United States,Nebraska,6/1/2021,44348Nebraska,NE,1170,11
+6/1/2021,United States,New Hampshire,6/1/2021,44348New Hampshire,NH,758,19
+6/1/2021,United States,New Jersey,6/1/2021,44348New Jersey,NJ,7063,245
+6/1/2021,United States,New Mexico,6/1/2021,44348New Mexico,NM,2394,78
+6/1/2021,United States,Nevada,6/1/2021,44348Nevada,NV,9580,95
+6/1/2021,United States,New York,6/1/2021,44348New York,NY,12612,328
+6/1/2021,United States,Ohio,6/1/2021,44348Ohio,OH,9080,448
+6/1/2021,United States,Oklahoma,6/1/2021,44348Oklahoma,OK,4938,77
+6/1/2021,United States,Oregon,6/1/2021,44348Oregon,OR,7162,103
+6/1/2021,United States,Pennsylvania,6/1/2021,44348Pennsylvania,PA,9420,464
+6/1/2021,United States,Rhode Island,6/1/2021,44348Rhode Island,RI,681,18
+6/1/2021,United States,South Carolina,6/1/2021,44348South Carolina,SC,5227,121
+6/1/2021,United States,South Dakota,6/1/2021,44348South Dakota,SD,345,21
+6/1/2021,United States,Tennessee,6/1/2021,44348Tennessee,TN,6501,116
+6/1/2021,United States,Texas,6/1/2021,44348Texas,TX,44613,534
+6/1/2021,United States,Utah,6/1/2021,44348Utah,UT,8969,59
+6/1/2021,United States,Virginia,6/1/2021,44348Virginia,VA,4967,225
+6/1/2021,United States,Vermont,6/1/2021,44348Vermont,VT,167,2
+6/1/2021,United States,Washington,6/1/2021,44348Washington,WA,14920,165
+6/1/2021,United States,Wisconsin,6/1/2021,44348Wisconsin,WI,3202,272
+6/1/2021,United States,West Virginia,6/1/2021,44348West Virginia,WV,2328,81
+6/1/2021,United States,Wyoming,6/1/2021,44348Wyoming,WY,1984,28
+7/1/2021,United States,Alaska,7/1/2021,44378Alaska,AK,4140,12
+7/1/2021,United States,Alabama,7/1/2021,44378Alabama,AL,35500,248
+7/1/2021,United States,Arkansas,7/1/2021,44378Arkansas,AR,37067,232
+7/1/2021,United States,Arizona,7/1/2021,44378Arizona,AZ,32360,310
+7/1/2021,United States,California,7/1/2021,44378California,CA,138616,912
+7/1/2021,United States,Colorado,7/1/2021,44378Colorado,CO,16893,154
+7/1/2021,United States,Connecticut,7/1/2021,44378Connecticut,CT,5397,15
+7/1/2021,United States,District of Columbia,7/1/2021,44378District of Columbia,DC,1147,8
+7/1/2021,United States,Delaware,7/1/2021,44378Delaware,DE,1663,9
+7/1/2021,United States,Florida,7/1/2021,44378Florida,FL,291260,2071
+7/1/2021,United States,Georgia,7/1/2021,44378Georgia,GA,48705,260
+7/1/2021,United States,Hawaii,7/1/2021,44378Hawaii,HI,4252,20
+7/1/2021,United States,Iowa,7/1/2021,44378Iowa,IA,6373,45
+7/1/2021,United States,Idaho,7/1/2021,44378Idaho,ID,5775,47
+7/1/2021,United States,Illinois,7/1/2021,44378Illinois,IL,29741,246
+7/1/2021,United States,Indiana,7/1/2021,44378Indiana,IN,18304,164
+7/1/2021,United States,Kansas,7/1/2021,44378Kansas,KS,15394,102
+7/1/2021,United States,Kentucky,7/1/2021,44378Kentucky,KY,20408,126
+7/1/2021,United States,Louisiana,7/1/2021,44378Louisiana,LA,63914,270
+7/1/2021,United States,Massachusetts,7/1/2021,44378Massachusetts,MA,10515,88
+7/1/2021,United States,Maryland,7/1/2021,44378Maryland,MD,6467,82
+7/1/2021,United States,Maine,7/1/2021,44378Maine,ME,1409,41
+7/1/2021,United States,Michigan,7/1/2021,44378Michigan,MI,13080,160
+7/1/2021,United States,Minnesota,7/1/2021,44378Minnesota,MN,7543,76
+7/1/2021,United States,Missouri,7/1/2021,44378Missouri,MO,61493,352
+7/1/2021,United States,Mississippi,7/1/2021,44378Mississippi,MS,24532,278
+7/1/2021,United States,Montana,7/1/2021,44378Montana,MT,2699,40
+7/1/2021,United States,North Carolina,7/1/2021,44378North Carolina,NC,47379,208
+7/1/2021,United States,North Dakota,7/1/2021,44378North Dakota,ND,940,11
+7/1/2021,United States,Nebraska,7/1/2021,44378Nebraska,NE,4203,20
+7/1/2021,United States,New Hampshire,7/1/2021,44378New Hampshire,NH,1262,15
+7/1/2021,United States,New Jersey,7/1/2021,44378New Jersey,NJ,15958,145
+7/1/2021,United States,New Mexico,7/1/2021,44378New Mexico,NM,5232,70
+7/1/2021,United States,Nevada,7/1/2021,44378Nevada,NV,23532,233
+7/1/2021,United States,New York,7/1/2021,44378New York,NY,36652,172
+7/1/2021,United States,Ohio,7/1/2021,44378Ohio,OH,17711,183
+7/1/2021,United States,Oklahoma,7/1/2021,44378Oklahoma,OK,26187,122
+7/1/2021,United States,Oregon,7/1/2021,44378Oregon,OR,11799,85
+7/1/2021,United States,Pennsylvania,7/1/2021,44378Pennsylvania,PA,13522,174
+7/1/2021,United States,Rhode Island,7/1/2021,44378Rhode Island,RI,2112,6
+7/1/2021,United States,South Carolina,7/1/2021,44378South Carolina,SC,22849,110
+7/1/2021,United States,South Dakota,7/1/2021,44378South Dakota,SD,839,8
+7/1/2021,United States,Tennessee,7/1/2021,44378Tennessee,TN,30445,178
+7/1/2021,United States,Texas,7/1/2021,44378Texas,TX,134719,623
+7/1/2021,United States,Utah,7/1/2021,44378Utah,UT,18076,85
+7/1/2021,United States,Virginia,7/1/2021,44378Virginia,VA,16302,115
+7/1/2021,United States,Vermont,7/1/2021,44378Vermont,VT,481,1
+7/1/2021,United States,Washington,7/1/2021,44378Washington,WA,23551,193
+7/1/2021,United States,Wisconsin,7/1/2021,44378Wisconsin,WI,10271,163
+7/1/2021,United States,West Virginia,7/1/2021,44378West Virginia,WV,3196,56
+7/1/2021,United States,Wyoming,7/1/2021,44378Wyoming,WY,2949,29
+8/1/2021,United States,Alaska,8/1/2021,44409Alaska,AK,12078,49
+8/1/2021,United States,Alabama,8/1/2021,44409Alabama,AL,116708,1547
+8/1/2021,United States,Arkansas,8/1/2021,44409Arkansas,AR,66439,793
+8/1/2021,United States,Arizona,8/1/2021,44409Arizona,AZ,84688,540
+8/1/2021,United States,California,8/1/2021,44409California,CA,401722,1352
+8/1/2021,United States,Colorado,8/1/2021,44409Colorado,CO,40653,194
+8/1/2021,United States,Connecticut,8/1/2021,44409Connecticut,CT,18171,65
+8/1/2021,United States,District of Columbia,8/1/2021,44409District of Columbia,DC,4708,11
+8/1/2021,United States,Delaware,8/1/2021,44409Delaware,DE,8445,47
+8/1/2021,United States,Florida,8/1/2021,44409Florida,FL,639642,9846
+8/1/2021,United States,Georgia,8/1/2021,44409Georgia,GA,220304,1057
+8/1/2021,United States,Hawaii,8/1/2021,44409Hawaii,HI,20710,52
+8/1/2021,United States,Iowa,8/1/2021,44409Iowa,IA,26334,85
+8/1/2021,United States,Idaho,8/1/2021,44409Idaho,ID,20616,164
+8/1/2021,United States,Illinois,8/1/2021,44409Illinois,IL,101462,580
+8/1/2021,United States,Indiana,8/1/2021,44409Indiana,IN,86335,480
+8/1/2021,United States,Kansas,8/1/2021,44409Kansas,KS,37573,299
+8/1/2021,United States,Kentucky,8/1/2021,44409Kentucky,KY,100489,675
+8/1/2021,United States,Louisiana,8/1/2021,44409Louisiana,LA,144319,1527
+8/1/2021,United States,Massachusetts,8/1/2021,44409Massachusetts,MA,39388,164
+8/1/2021,United States,Maryland,8/1/2021,44409Maryland,MD,29555,198
+8/1/2021,United States,Maine,8/1/2021,44409Maine,ME,5826,34
+8/1/2021,United States,Michigan,8/1/2021,44409Michigan,MI,46562,231
+8/1/2021,United States,Minnesota,8/1/2021,44409Minnesota,MN,37056,136
+8/1/2021,United States,Missouri,8/1/2021,44409Missouri,MO,79045,955
+8/1/2021,United States,Mississippi,8/1/2021,44409Mississippi,MS,92830,464
+8/1/2021,United States,Montana,8/1/2021,44409Montana,MT,10773,95
+8/1/2021,United States,North Carolina,8/1/2021,44409North Carolina,NC,173926,1102
+8/1/2021,United States,North Dakota,8/1/2021,44409North Dakota,ND,6297,22
+8/1/2021,United States,Nebraska,8/1/2021,44409Nebraska,NE,16171,42
+8/1/2021,United States,New Hampshire,8/1/2021,44409New Hampshire,NH,6923,30
+8/1/2021,United States,New Jersey,8/1/2021,44409New Jersey,NJ,52613,280
+8/1/2021,United States,New Mexico,8/1/2021,44409New Mexico,NM,21840,110
+8/1/2021,United States,Nevada,8/1/2021,44409Nevada,NV,33356,596
+8/1/2021,United States,New York,8/1/2021,44409New York,NY,128426,620
+8/1/2021,United States,Ohio,8/1/2021,44409Ohio,OH,91623,374
+8/1/2021,United States,Oklahoma,8/1/2021,44409Oklahoma,OK,70129,541
+8/1/2021,United States,Oregon,8/1/2021,44409Oregon,OR,55851,339
+8/1/2021,United States,Pennsylvania,8/1/2021,44409Pennsylvania,PA,69312,383
+8/1/2021,United States,Rhode Island,8/1/2021,44409Rhode Island,RI,8362,33
+8/1/2021,United States,South Carolina,8/1/2021,44409South Carolina,SC,116990,681
+8/1/2021,United States,South Dakota,8/1/2021,44409South Dakota,SD,6884,26
+8/1/2021,United States,Tennessee,8/1/2021,44409Tennessee,TN,154898,746
+8/1/2021,United States,Texas,8/1/2021,44409Texas,TX,448541,3550
+8/1/2021,United States,Utah,8/1/2021,44409Utah,UT,31207,178
+8/1/2021,United States,Virginia,8/1/2021,44409Virginia,VA,72976,327
+8/1/2021,United States,Vermont,8/1/2021,44409Vermont,VT,3152,15
+8/1/2021,United States,Washington,8/1/2021,44409Washington,WA,87895,451
+8/1/2021,United States,Wisconsin,8/1/2021,44409Wisconsin,WI,46047,171
+8/1/2021,United States,West Virginia,8/1/2021,44409West Virginia,WV,22453,137
+8/1/2021,United States,Wyoming,8/1/2021,44409Wyoming,WY,9897,82
+9/1/2021,United States,Alaska,9/1/2021,44440Alaska,AK,25248,125
+9/1/2021,United States,Alabama,9/1/2021,44440Alabama,AL,93952,1790
+9/1/2021,United States,Arkansas,9/1/2021,44440Arkansas,AR,43186,757
+9/1/2021,United States,Arizona,9/1/2021,44440Arizona,AZ,81660,1198
+9/1/2021,United States,California,9/1/2021,44440California,CA,291469,3383
+9/1/2021,United States,Colorado,9/1/2021,44440Colorado,CO,50798,401
+9/1/2021,United States,Connecticut,9/1/2021,44440Connecticut,CT,17273,271
+9/1/2021,United States,District of Columbia,9/1/2021,44440District of Columbia,DC,5347,14
+9/1/2021,United States,Delaware,9/1/2021,44440Delaware,DE,13111,74
+9/1/2021,United States,Florida,9/1/2021,44440Florida,FL,307219,7942
+9/1/2021,United States,Georgia,9/1/2021,44440Georgia,GA,175134,3344
+9/1/2021,United States,Hawaii,9/1/2021,44440Hawaii,HI,15431,191
+9/1/2021,United States,Iowa,9/1/2021,44440Iowa,IA,47250,295
+9/1/2021,United States,Idaho,9/1/2021,44440Idaho,ID,35933,544
+9/1/2021,United States,Illinois,9/1/2021,44440Illinois,IL,104566,1165
+9/1/2021,United States,Indiana,9/1/2021,44440Indiana,IN,104242,1165
+9/1/2021,United States,Kansas,9/1/2021,44440Kansas,KS,39045,494
+9/1/2021,United States,Kentucky,9/1/2021,44440Kentucky,KY,114446,1253
+9/1/2021,United States,Louisiana,9/1/2021,44440Louisiana,LA,50833,1414
+9/1/2021,United States,Massachusetts,9/1/2021,44440Massachusetts,MA,52082,381
+9/1/2021,United States,Maryland,9/1/2021,44440Maryland,MD,35494,436
+9/1/2021,United States,Maine,9/1/2021,44440Maine,ME,14438,90
+9/1/2021,United States,Michigan,9/1/2021,44440Michigan,MI,91984,392
+9/1/2021,United States,Minnesota,9/1/2021,44440Minnesota,MN,61130,296
+9/1/2021,United States,Missouri,9/1/2021,44440Missouri,MO,61059,893
+9/1/2021,United States,Mississippi,9/1/2021,44440Mississippi,MS,49555,599
+9/1/2021,United States,Montana,9/1/2021,44440Montana,MT,23806,209
+9/1/2021,United States,North Carolina,9/1/2021,44440North Carolina,NC,161914,1673
+9/1/2021,United States,North Dakota,9/1/2021,44440North Dakota,ND,14853,50
+9/1/2021,United States,Nebraska,9/1/2021,44440Nebraska,NE,22014,123
+9/1/2021,United States,New Hampshire,9/1/2021,44440New Hampshire,NH,12579,64
+9/1/2021,United States,New Jersey,9/1/2021,44440New Jersey,NJ,62604,545
+9/1/2021,United States,New Mexico,9/1/2021,44440New Mexico,NM,20410,283
+9/1/2021,United States,Nevada,9/1/2021,44440Nevada,NV,30719,640
+9/1/2021,United States,New York,9/1/2021,44440New York,NY,148287,1107
+9/1/2021,United States,Ohio,9/1/2021,44440Ohio,OH,193072,1079
+9/1/2021,United States,Oklahoma,9/1/2021,44440Oklahoma,OK,60721,953
+9/1/2021,United States,Oregon,9/1/2021,44440Oregon,OR,53767,593
+9/1/2021,United States,Pennsylvania,9/1/2021,44440Pennsylvania,PA,129572,1165
+9/1/2021,United States,Rhode Island,9/1/2021,44440Rhode Island,RI,9763,64
+9/1/2021,United States,South Carolina,9/1/2021,44440South Carolina,SC,121672,1873
+9/1/2021,United States,South Dakota,9/1/2021,44440South Dakota,SD,12759,73
+9/1/2021,United States,Tennessee,9/1/2021,44440Tennessee,TN,176693,1663
+9/1/2021,United States,Texas,9/1/2021,44440Texas,TX,442670,8341
+9/1/2021,United States,Utah,9/1/2021,44440Utah,UT,44072,298
+9/1/2021,United States,Virginia,9/1/2021,44440Virginia,VA,99486,945
+9/1/2021,United States,Vermont,9/1/2021,44440Vermont,VT,4796,37
+9/1/2021,United States,Washington,9/1/2021,44440Washington,WA,94585,1152
+9/1/2021,United States,Wisconsin,9/1/2021,44440Wisconsin,WI,76224,426
+9/1/2021,United States,West Virginia,9/1/2021,44440West Virginia,WV,50769,586
+9/1/2021,United States,Wyoming,9/1/2021,44440Wyoming,WY,15466,138
+10/1/2021,United States,Alaska,10/1/2021,44470Alaska,AK,22800,143
+10/1/2021,United States,Alabama,10/1/2021,44470Alabama,AL,35332,499
+10/1/2021,United States,Arkansas,10/1/2021,44470Arkansas,AR,17138,405
+10/1/2021,United States,Arizona,10/1/2021,44470Arizona,AZ,75317,1170
+10/1/2021,United States,California,10/1/2021,44470California,CA,172876,2849
+10/1/2021,United States,Colorado,10/1/2021,44470Colorado,CO,68364,643
+10/1/2021,United States,Connecticut,10/1/2021,44470Connecticut,CT,12238,135
+10/1/2021,United States,District of Columbia,10/1/2021,44470District of Columbia,DC,3087,16
+10/1/2021,United States,Delaware,10/1/2021,44470Delaware,DE,11235,137
+10/1/2021,United States,Florida,10/1/2021,44470Florida,FL,77115,2490
+10/1/2021,United States,Georgia,10/1/2021,44470Georgia,GA,55377,2981
+10/1/2021,United States,Hawaii,10/1/2021,44470Hawaii,HI,4802,131
+10/1/2021,United States,Iowa,10/1/2021,44470Iowa,IA,32314,402
+10/1/2021,United States,Idaho,10/1/2021,44470Idaho,ID,33994,631
+10/1/2021,United States,Illinois,10/1/2021,44470Illinois,IL,68016,955
+10/1/2021,United States,Indiana,10/1/2021,44470Indiana,IN,55830,1080
+10/1/2021,United States,Kansas,10/1/2021,44470Kansas,KS,24528,364
+10/1/2021,United States,Kentucky,10/1/2021,44470Kentucky,KY,46253,612
+10/1/2021,United States,Louisiana,10/1/2021,44470Louisiana,LA,17938,598
+10/1/2021,United States,Massachusetts,10/1/2021,44470Massachusetts,MA,39971,369
+10/1/2021,United States,Maryland,10/1/2021,44470Maryland,MD,27400,435
+10/1/2021,United States,Maine,10/1/2021,44470Maine,ME,13532,143
+10/1/2021,United States,Michigan,10/1/2021,44470Michigan,MI,120455,694
+10/1/2021,United States,Minnesota,10/1/2021,44470Minnesota,MN,76456,537
+10/1/2021,United States,Missouri,10/1/2021,44470Missouri,MO,33639,540
+10/1/2021,United States,Mississippi,10/1/2021,44470Mississippi,MS,15102,188
+10/1/2021,United States,Montana,10/1/2021,44470Montana,MT,24814,337
+10/1/2021,United States,North Carolina,10/1/2021,44470North Carolina,NC,82260,1526
+10/1/2021,United States,North Dakota,10/1/2021,44470North Dakota,ND,15586,151
+10/1/2021,United States,Nebraska,10/1/2021,44470Nebraska,NE,17687,135
+10/1/2021,United States,New Hampshire,10/1/2021,44470New Hampshire,NH,14249,84
+10/1/2021,United States,New Jersey,10/1/2021,44470New Jersey,NJ,44347,545
+10/1/2021,United States,New Mexico,10/1/2021,44470New Mexico,NM,22185,249
+10/1/2021,United States,Nevada,10/1/2021,44470Nevada,NV,18313,481
+10/1/2021,United States,New York,10/1/2021,44470New York,NY,133340,1077
+10/1/2021,United States,Ohio,10/1/2021,44470Ohio,OH,131355,2582
+10/1/2021,United States,Oklahoma,10/1/2021,44470Oklahoma,OK,29467,787
+10/1/2021,United States,Oregon,10/1/2021,44470Oregon,OR,34999,581
+10/1/2021,United States,Pennsylvania,10/1/2021,44470Pennsylvania,PA,134999,2054
+10/1/2021,United States,Rhode Island,10/1/2021,44470Rhode Island,RI,7444,41
+10/1/2021,United States,South Carolina,10/1/2021,44470South Carolina,SC,39934,1281
+10/1/2021,United States,South Dakota,10/1/2021,44470South Dakota,SD,9464,93
+10/1/2021,United States,Tennessee,10/1/2021,44470Tennessee,TN,53629,1228
+10/1/2021,United States,Texas,10/1/2021,44470Texas,TX,162787,6005
+10/1/2021,United States,Utah,10/1/2021,44470Utah,UT,41388,276
+10/1/2021,United States,Virginia,10/1/2021,44470Virginia,VA,56851,1142
+10/1/2021,United States,Vermont,10/1/2021,44470Vermont,VT,5402,41
+10/1/2021,United States,Washington,10/1/2021,44470Washington,WA,67809,902
+10/1/2021,United States,Wisconsin,10/1/2021,44470Wisconsin,WI,72293,528
+10/1/2021,United States,West Virginia,10/1/2021,44470West Virginia,WV,32073,756
+10/1/2021,United States,Wyoming,10/1/2021,44470Wyoming,WY,12324,178
+11/1/2021,United States,Alaska,11/1/2021,44501Alaska,AK,8259,104
+11/1/2021,United States,Alabama,11/1/2021,44501Alabama,AL,8870,429
+11/1/2021,United States,Arkansas,11/1/2021,44501Arkansas,AR,6696,203
+11/1/2021,United States,Arizona,11/1/2021,44501Arizona,AZ,48293,499
+11/1/2021,United States,California,11/1/2021,44501California,CA,100488,1051
+11/1/2021,United States,Colorado,11/1/2021,44501Colorado,CO,48969,515
+11/1/2021,United States,Connecticut,11/1/2021,44501Connecticut,CT,7346,62
+11/1/2021,United States,District of Columbia,11/1/2021,44501District of Columbia,DC,1383,5
+11/1/2021,United States,Delaware,11/1/2021,44501Delaware,DE,3951,50
+11/1/2021,United States,Florida,11/1/2021,44501Florida,FL,23643,172
+11/1/2021,United States,Georgia,11/1/2021,44501Georgia,GA,15427,806
+11/1/2021,United States,Hawaii,11/1/2021,44501Hawaii,HI,1493,59
+11/1/2021,United States,Iowa,11/1/2021,44501Iowa,IA,20406,201
+11/1/2021,United States,Idaho,11/1/2021,44501Idaho,ID,9211,214
+11/1/2021,United States,Illinois,11/1/2021,44501Illinois,IL,48984,412
+11/1/2021,United States,Indiana,11/1/2021,44501Indiana,IN,36933,376
+11/1/2021,United States,Kansas,11/1/2021,44501Kansas,KS,15167,199
+11/1/2021,United States,Kentucky,11/1/2021,44501Kentucky,KY,16576,239
+11/1/2021,United States,Louisiana,11/1/2021,44501Louisiana,LA,6825,152
+11/1/2021,United States,Massachusetts,11/1/2021,44501Massachusetts,MA,27205,193
+11/1/2021,United States,Maryland,11/1/2021,44501Maryland,MD,11774,180
+11/1/2021,United States,Maine,11/1/2021,44501Maine,ME,7828,76
+11/1/2021,United States,Michigan,11/1/2021,44501Michigan,MI,94932,415
+11/1/2021,United States,Minnesota,11/1/2021,44501Minnesota,MN,51383,327
+11/1/2021,United States,Missouri,11/1/2021,44501Missouri,MO,18965,362
+11/1/2021,United States,Mississippi,11/1/2021,44501Mississippi,MS,4957,71
+11/1/2021,United States,Montana,11/1/2021,44501Montana,MT,9329,144
+11/1/2021,United States,North Carolina,11/1/2021,44501North Carolina,NC,29062,387
+11/1/2021,United States,North Dakota,11/1/2021,44501North Dakota,ND,7720,61
+11/1/2021,United States,Nebraska,11/1/2021,44501Nebraska,NE,13316,95
+11/1/2021,United States,New Hampshire,11/1/2021,44501New Hampshire,NH,12317,65
+11/1/2021,United States,New Jersey,11/1/2021,44501New Jersey,NJ,20851,205
+11/1/2021,United States,New Mexico,11/1/2021,44501New Mexico,NM,20558,142
+11/1/2021,United States,Nevada,11/1/2021,44501Nevada,NV,12294,213
+11/1/2021,United States,New York,11/1/2021,44501New York,NY,73241,519
+11/1/2021,United States,Ohio,11/1/2021,44501Ohio,OH,63088,1116
+11/1/2021,United States,Oklahoma,11/1/2021,44501Oklahoma,OK,11173,282
+11/1/2021,United States,Oregon,11/1/2021,44501Oregon,OR,15039,431
+11/1/2021,United States,Pennsylvania,11/1/2021,44501Pennsylvania,PA,66391,957
+11/1/2021,United States,Rhode Island,11/1/2021,44501Rhode Island,RI,4371,16
+11/1/2021,United States,South Carolina,11/1/2021,44501South Carolina,SC,7175,200
+11/1/2021,United States,South Dakota,11/1/2021,44501South Dakota,SD,5606,54
+11/1/2021,United States,Tennessee,11/1/2021,44501Tennessee,TN,15897,306
+11/1/2021,United States,Texas,11/1/2021,44501Texas,TX,43178,1652
+11/1/2021,United States,Utah,11/1/2021,44501Utah,UT,26127,165
+11/1/2021,United States,Virginia,11/1/2021,44501Virginia,VA,21092,474
+11/1/2021,United States,Vermont,11/1/2021,44501Vermont,VT,5225,33
+11/1/2021,United States,Washington,11/1/2021,44501Washington,WA,29576,362
+11/1/2021,United States,Wisconsin,11/1/2021,44501Wisconsin,WI,45833,290
+11/1/2021,United States,West Virginia,11/1/2021,44501West Virginia,WV,11029,210
+11/1/2021,United States,Wyoming,11/1/2021,44501Wyoming,WY,5177,124
