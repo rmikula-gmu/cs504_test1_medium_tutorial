@@ -1,0 +1,278 @@
+Date,Country,Province,Key,Province_Abbrev,Monthly_new_case,Monthly_new_death
+3/1/2020,Canada,Newfoundland and Labrador,43891Newfoundland and Labrador,NL,152,1
+4/1/2020,Canada,Newfoundland and Labrador,43922Newfoundland and Labrador,NL,106,2
+5/1/2020,Canada,Newfoundland and Labrador,43952Newfoundland and Labrador,NL,3,0
+6/1/2020,Canada,Newfoundland and Labrador,43983Newfoundland and Labrador,NL,0,0
+7/1/2020,Canada,Newfoundland and Labrador,44013Newfoundland and Labrador,NL,5,0
+8/1/2020,Canada,Newfoundland and Labrador,44044Newfoundland and Labrador,NL,3,0
+9/1/2020,Canada,Newfoundland and Labrador,44075Newfoundland and Labrador,NL,5,0
+10/1/2020,Canada,Newfoundland and Labrador,44105Newfoundland and Labrador,NL,17,1
+11/1/2020,Canada,Newfoundland and Labrador,44136Newfoundland and Labrador,NL,47,0
+12/1/2020,Canada,Newfoundland and Labrador,44166Newfoundland and Labrador,NL,52,0
+1/1/2021,Canada,Newfoundland and Labrador,44197Newfoundland and Labrador,NL,18,0
+2/1/2021,Canada,Newfoundland and Labrador,44228Newfoundland and Labrador,NL,579,2
+3/1/2021,Canada,Newfoundland and Labrador,44256Newfoundland and Labrador,NL,32,0
+4/1/2021,Canada,Newfoundland and Labrador,44287Newfoundland and Labrador,NL,57,0
+5/1/2021,Canada,Newfoundland and Labrador,44317Newfoundland and Labrador,NL,235,0
+6/1/2021,Canada,Newfoundland and Labrador,44348Newfoundland and Labrador,NL,75,1
+7/1/2021,Canada,Newfoundland and Labrador,44378Newfoundland and Labrador,NL,51,0
+8/1/2021,Canada,Newfoundland and Labrador,44409Newfoundland and Labrador,NL,41,0
+9/1/2021,Canada,Newfoundland and Labrador,44440Newfoundland and Labrador,NL,269,1
+10/1/2021,Canada,Newfoundland and Labrador,44470Newfoundland and Labrador,NL,245,8
+11/1/2021,Canada,Newfoundland and Labrador,44501Newfoundland and Labrador,NL,39,1
+3/1/2020,Canada,Prince Edward Island,43891Prince Edward Island,PE,21,0
+4/1/2020,Canada,Prince Edward Island,43922Prince Edward Island,PE,6,0
+5/1/2020,Canada,Prince Edward Island,43952Prince Edward Island,PE,0,0
+6/1/2020,Canada,Prince Edward Island,43983Prince Edward Island,PE,0,0
+7/1/2020,Canada,Prince Edward Island,44013Prince Edward Island,PE,9,0
+8/1/2020,Canada,Prince Edward Island,44044Prince Edward Island,PE,8,0
+9/1/2020,Canada,Prince Edward Island,44075Prince Edward Island,PE,15,0
+10/1/2020,Canada,Prince Edward Island,44105Prince Edward Island,PE,5,0
+11/1/2020,Canada,Prince Edward Island,44136Prince Edward Island,PE,8,0
+12/1/2020,Canada,Prince Edward Island,44166Prince Edward Island,PE,24,0
+1/1/2021,Canada,Prince Edward Island,44197Prince Edward Island,PE,15,0
+2/1/2021,Canada,Prince Edward Island,44228Prince Edward Island,PE,21,0
+3/1/2021,Canada,Prince Edward Island,44256Prince Edward Island,PE,27,0
+4/1/2021,Canada,Prince Edward Island,44287Prince Edward Island,PE,22,0
+5/1/2021,Canada,Prince Edward Island,44317Prince Edward Island,PE,23,0
+6/1/2021,Canada,Prince Edward Island,44348Prince Edward Island,PE,3,0
+7/1/2021,Canada,Prince Edward Island,44378Prince Edward Island,PE,1,0
+8/1/2021,Canada,Prince Edward Island,44409Prince Edward Island,PE,25,0
+9/1/2021,Canada,Prince Edward Island,44440Prince Edward Island,PE,66,0
+10/1/2021,Canada,Prince Edward Island,44470Prince Edward Island,PE,18,0
+11/1/2021,Canada,Prince Edward Island,44501Prince Edward Island,PE,19,0
+3/1/2020,Canada,Nova Scotia,43891Nova Scotia,NS,147,0
+4/1/2020,Canada,Nova Scotia,43922Nova Scotia,NS,800,28
+5/1/2020,Canada,Nova Scotia,43952Nova Scotia,NS,109,32
+6/1/2020,Canada,Nova Scotia,43983Nova Scotia,NS,6,3
+7/1/2020,Canada,Nova Scotia,44013Nova Scotia,NS,7,1
+8/1/2020,Canada,Nova Scotia,44044Nova Scotia,NS,16,1
+9/1/2020,Canada,Nova Scotia,44075Nova Scotia,NS,3,0
+10/1/2020,Canada,Nova Scotia,44105Nova Scotia,NS,21,0
+11/1/2020,Canada,Nova Scotia,44136Nova Scotia,NS,196,0
+12/1/2020,Canada,Nova Scotia,44166Nova Scotia,NS,181,0
+1/1/2021,Canada,Nova Scotia,44197Nova Scotia,NS,94,0
+2/1/2021,Canada,Nova Scotia,44228Nova Scotia,NS,61,0
+3/1/2021,Canada,Nova Scotia,44256Nova Scotia,NS,75,1
+4/1/2021,Canada,Nova Scotia,44287Nova Scotia,NS,711,1
+5/1/2021,Canada,Nova Scotia,44317Nova Scotia,NS,3140,18
+6/1/2021,Canada,Nova Scotia,44348Nova Scotia,NS,269,7
+7/1/2021,Canada,Nova Scotia,44378Nova Scotia,NS,51,1
+8/1/2021,Canada,Nova Scotia,44409Nova Scotia,NS,144,1
+9/1/2021,Canada,Nova Scotia,44440Nova Scotia,NS,607,3
+10/1/2021,Canada,Nova Scotia,44470Nova Scotia,NS,716,3
+11/1/2021,Canada,Nova Scotia,44501Nova Scotia,NS,631,5
+3/1/2020,Canada,New Brunswick,43891New Brunswick,NB,70,0
+4/1/2020,Canada,New Brunswick,43922New Brunswick,NB,48,0
+5/1/2020,Canada,New Brunswick,43952New Brunswick,NB,14,0
+6/1/2020,Canada,New Brunswick,43983New Brunswick,NB,33,2
+7/1/2020,Canada,New Brunswick,44013New Brunswick,NB,5,0
+8/1/2020,Canada,New Brunswick,44044New Brunswick,NB,21,0
+9/1/2020,Canada,New Brunswick,44075New Brunswick,NB,9,0
+10/1/2020,Canada,New Brunswick,44105New Brunswick,NB,143,4
+11/1/2020,Canada,New Brunswick,44136New Brunswick,NB,158,1
+12/1/2020,Canada,New Brunswick,44166New Brunswick,NB,98,2
+1/1/2021,Canada,New Brunswick,44197New Brunswick,NB,657,9
+2/1/2021,Canada,New Brunswick,44228New Brunswick,NB,174,9
+3/1/2021,Canada,New Brunswick,44256New Brunswick,NB,183,3
+4/1/2021,Canada,New Brunswick,44287New Brunswick,NB,302,6
+5/1/2021,Canada,New Brunswick,44317New Brunswick,NB,295,7
+6/1/2021,Canada,New Brunswick,44348New Brunswick,NB,122,2
+7/1/2021,Canada,New Brunswick,44378New Brunswick,NB,33,1
+8/1/2021,Canada,New Brunswick,44409New Brunswick,NB,398,0
+9/1/2021,Canada,New Brunswick,44440New Brunswick,NB,1424,13
+10/1/2021,Canada,New Brunswick,44470New Brunswick,NB,2258,58
+11/1/2021,Canada,New Brunswick,44501New Brunswick,NB,977,5
+3/1/2020,Canada,Quebec,43891Quebec,QC,4162,31
+4/1/2020,Canada,Quebec,43922Quebec,QC,23376,1828
+5/1/2020,Canada,Quebec,43952Quebec,QC,23521,2782
+6/1/2020,Canada,Quebec,43983Quebec,QC,4399,862
+7/1/2020,Canada,Quebec,44013Quebec,QC,3854,171
+8/1/2020,Canada,Quebec,44044Quebec,QC,3180,86
+9/1/2020,Canada,Quebec,44075Quebec,QC,11796,74
+10/1/2020,Canada,Quebec,44105Quebec,QC,31728,412
+11/1/2020,Canada,Quebec,44136Quebec,QC,36355,810
+12/1/2020,Canada,Quebec,44166Quebec,QC,60270,1170
+1/1/2021,Canada,Quebec,44197Quebec,QC,59942,1568
+2/1/2021,Canada,Quebec,44228Quebec,QC,25157,599
+3/1/2021,Canada,Quebec,44256Quebec,QC,23351,274
+4/1/2021,Canada,Quebec,44287Quebec,QC,38682,259
+5/1/2021,Canada,Quebec,44317Quebec,QC,20546,202
+6/1/2021,Canada,Quebec,44348Quebec,QC,4538,82
+7/1/2021,Canada,Quebec,44378Quebec,QC,2440,30
+8/1/2021,Canada,Quebec,44409Quebec,QC,11927,46
+9/1/2021,Canada,Quebec,44440Quebec,QC,20956,85
+10/1/2021,Canada,Quebec,44470Quebec,QC,15780,123
+11/1/2021,Canada,Quebec,44501Quebec,QC,10844,56
+1/1/2020,Canada,Ontario,43831Ontario,ON,3,0
+2/1/2020,Canada,Ontario,43862Ontario,ON,5,0
+3/1/2020,Canada,Ontario,43891Ontario,ON,1958,33
+4/1/2020,Canada,Ontario,43922Ontario,ON,14221,1054
+5/1/2020,Canada,Ontario,43952Ontario,ON,11672,1189
+6/1/2020,Canada,Ontario,43983Ontario,ON,7209,411
+7/1/2020,Canada,Ontario,44013Ontario,ON,4141,108
+8/1/2020,Canada,Ontario,44044Ontario,ON,3100,41
+9/1/2020,Canada,Ontario,44075Ontario,ON,9401,42
+10/1/2020,Canada,Ontario,44105Ontario,ON,24020,293
+11/1/2020,Canada,Ontario,44136Ontario,ON,40762,525
+12/1/2020,Canada,Ontario,44166Ontario,ON,65667,880
+1/1/2021,Canada,Ontario,44197Ontario,ON,86052,1612
+2/1/2021,Canada,Ontario,44228Ontario,ON,32605,792
+3/1/2021,Canada,Ontario,44256Ontario,ON,49087,386
+4/1/2021,Canada,Ontario,44287Ontario,ON,113461,684
+5/1/2021,Canada,Ontario,44317Ontario,ON,68095,707
+6/1/2021,Canada,Ontario,44348Ontario,ON,13438,411
+7/1/2021,Canada,Ontario,44378Ontario,ON,5539,177
+8/1/2021,Canada,Ontario,44409Ontario,ON,15114,158
+9/1/2021,Canada,Ontario,44440Ontario,ON,20599,229
+10/1/2021,Canada,Ontario,44470Ontario,ON,13806,139
+11/1/2021,Canada,Ontario,44501Ontario,ON,9474,84
+3/1/2020,Canada,Manitoba,43891Manitoba,MB,103,1
+4/1/2020,Canada,Manitoba,43922Manitoba,MB,172,5
+5/1/2020,Canada,Manitoba,43952Manitoba,MB,20,1
+6/1/2020,Canada,Manitoba,43983Manitoba,MB,30,0
+7/1/2020,Canada,Manitoba,44013Manitoba,MB,90,1
+8/1/2020,Canada,Manitoba,44044Manitoba,MB,799,6
+9/1/2020,Canada,Manitoba,44075Manitoba,MB,779,6
+10/1/2020,Canada,Manitoba,44105Manitoba,MB,3730,47
+11/1/2020,Canada,Manitoba,44136Manitoba,MB,11102,245
+12/1/2020,Canada,Manitoba,44166Manitoba,MB,7875,355
+1/1/2021,Canada,Manitoba,44197Manitoba,MB,4864,162
+2/1/2021,Canada,Manitoba,44228Manitoba,MB,2295,66
+3/1/2021,Canada,Manitoba,44256Manitoba,MB,2256,40
+4/1/2021,Canada,Manitoba,44287Manitoba,MB,4607,39
+5/1/2021,Canada,Manitoba,44317Manitoba,MB,12362,79
+6/1/2021,Canada,Manitoba,44348Manitoba,MB,5083,87
+7/1/2021,Canada,Manitoba,44378Manitoba,MB,1453,38
+8/1/2021,Canada,Manitoba,44409Manitoba,MB,1090,11
+9/1/2021,Canada,Manitoba,44440Manitoba,MB,1833,22
+10/1/2021,Canada,Manitoba,44470Manitoba,MB,3049,36
+11/1/2021,Canada,Manitoba,44501Manitoba,MB,2592,34
+3/1/2020,Canada,Saskatchewan,43891Saskatchewan,SK,184,2
+4/1/2020,Canada,Saskatchewan,43922Saskatchewan,SK,205,4
+5/1/2020,Canada,Saskatchewan,43952Saskatchewan,SK,257,5
+6/1/2020,Canada,Saskatchewan,43983Saskatchewan,SK,139,2
+7/1/2020,Canada,Saskatchewan,44013Saskatchewan,SK,534,5
+8/1/2020,Canada,Saskatchewan,44044Saskatchewan,SK,300,6
+9/1/2020,Canada,Saskatchewan,44075Saskatchewan,SK,294,0
+10/1/2020,Canada,Saskatchewan,44105Saskatchewan,SK,1231,1
+11/1/2020,Canada,Saskatchewan,44136Saskatchewan,SK,5420,22
+12/1/2020,Canada,Saskatchewan,44166Saskatchewan,SK,6785,108
+1/1/2021,Canada,Saskatchewan,44197Saskatchewan,SK,8515,149
+2/1/2021,Canada,Saskatchewan,44228Saskatchewan,SK,4783,81
+3/1/2021,Canada,Saskatchewan,44256Saskatchewan,SK,4943,51
+4/1/2021,Canada,Saskatchewan,44287Saskatchewan,SK,7508,55
+5/1/2021,Canada,Saskatchewan,44317Saskatchewan,SK,5650,48
+6/1/2021,Canada,Saskatchewan,44348Saskatchewan,SK,2106,29
+7/1/2021,Canada,Saskatchewan,44378Saskatchewan,SK,1170,10
+8/1/2021,Canada,Saskatchewan,44409Saskatchewan,SK,4343,25
+9/1/2021,Canada,Saskatchewan,44440Saskatchewan,SK,12972,92
+10/1/2021,Canada,Saskatchewan,44470Saskatchewan,SK,10325,156
+11/1/2021,Canada,Saskatchewan,44501Saskatchewan,SK,2273,54
+3/1/2020,Canada,Alberta,43891Alberta,AB,754,9
+4/1/2020,Canada,Alberta,43922Alberta,AB,4601,80
+5/1/2020,Canada,Alberta,43952Alberta,AB,1655,54
+6/1/2020,Canada,Alberta,43983Alberta,AB,1098,11
+7/1/2020,Canada,Alberta,44013Alberta,AB,2735,42
+8/1/2020,Canada,Alberta,44044Alberta,AB,3059,43
+9/1/2020,Canada,Alberta,44075Alberta,AB,4160,28
+10/1/2020,Canada,Alberta,44105Alberta,AB,10183,56
+11/1/2020,Canada,Alberta,44136Alberta,AB,29932,218
+12/1/2020,Canada,Alberta,44166Alberta,AB,43451,505
+1/1/2021,Canada,Alberta,44197Alberta,AB,22580,593
+2/1/2021,Canada,Alberta,44228Alberta,AB,9296,247
+3/1/2021,Canada,Alberta,44256Alberta,AB,14828,104
+4/1/2021,Canada,Alberta,44287Alberta,AB,42402,92
+5/1/2021,Canada,Alberta,44317Alberta,AB,36775,145
+6/1/2021,Canada,Alberta,44348Alberta,AB,4478,74
+7/1/2021,Canada,Alberta,44378Alberta,AB,2548,23
+8/1/2021,Canada,Alberta,44409Alberta,AB,18395,51
+9/1/2021,Canada,Alberta,44440Alberta,AB,45242,342
+10/1/2021,Canada,Alberta,44470Alberta,AB,25685,376
+11/1/2021,Canada,Alberta,44501Alberta,AB,7357,116
+1/1/2020,Canada,British Columbia,43831British Columbia,BC,1,0
+2/1/2020,Canada,British Columbia,43862British Columbia,BC,6,0
+3/1/2020,Canada,British Columbia,43891British Columbia,BC,963,19
+4/1/2020,Canada,British Columbia,43922British Columbia,BC,1142,92
+5/1/2020,Canada,British Columbia,43952British Columbia,BC,461,53
+6/1/2020,Canada,British Columbia,43983British Columbia,BC,343,10
+7/1/2020,Canada,British Columbia,44013British Columbia,BC,725,21
+8/1/2020,Canada,British Columbia,44044British Columbia,BC,2149,13
+9/1/2020,Canada,British Columbia,44075British Columbia,BC,3348,26
+10/1/2020,Canada,British Columbia,44105British Columbia,BC,5595,29
+11/1/2020,Canada,British Columbia,44136British Columbia,BC,18505,178
+12/1/2020,Canada,British Columbia,44166British Columbia,BC,18752,460
+1/1/2021,Canada,British Columbia,44197British Columbia,BC,15670,288
+2/1/2021,Canada,British Columbia,44228British Columbia,BC,12794,166
+3/1/2021,Canada,British Columbia,44256British Columbia,BC,19594,103
+4/1/2021,Canada,British Columbia,44287British Columbia,BC,29434,123
+5/1/2021,Canada,British Columbia,44317British Columbia,BC,14807,122
+6/1/2021,Canada,British Columbia,44348British Columbia,BC,3332,51
+7/1/2021,Canada,British Columbia,44378British Columbia,BC,2428,17
+8/1/2021,Canada,British Columbia,44409British Columbia,BC,16019,45
+9/1/2021,Canada,British Columbia,44440British Columbia,BC,20912,146
+10/1/2021,Canada,British Columbia,44470British Columbia,BC,18972,194
+11/1/2021,Canada,British Columbia,44501British Columbia,BC,8198,134
+3/1/2020,Canada,Yukon,43891Yukon,YT,5,0
+4/1/2020,Canada,Yukon,43922Yukon,YT,6,0
+5/1/2020,Canada,Yukon,43952Yukon,YT,0,0
+6/1/2020,Canada,Yukon,43983Yukon,YT,0,0
+7/1/2020,Canada,Yukon,44013Yukon,YT,3,0
+8/1/2020,Canada,Yukon,44044Yukon,YT,1,0
+9/1/2020,Canada,Yukon,44075Yukon,YT,0,0
+10/1/2020,Canada,Yukon,44105Yukon,YT,8,1
+11/1/2020,Canada,Yukon,44136Yukon,YT,24,0
+12/1/2020,Canada,Yukon,44166Yukon,YT,13,0
+1/1/2021,Canada,Yukon,44197Yukon,YT,10,0
+2/1/2021,Canada,Yukon,44228Yukon,YT,2,0
+3/1/2021,Canada,Yukon,44256Yukon,YT,2,0
+4/1/2021,Canada,Yukon,44287Yukon,YT,7,1
+5/1/2021,Canada,Yukon,44317Yukon,YT,3,0
+6/1/2021,Canada,Yukon,44348Yukon,YT,258,3
+7/1/2021,Canada,Yukon,44378Yukon,YT,254,2
+8/1/2021,Canada,Yukon,44409Yukon,YT,93,1
+9/1/2021,Canada,Yukon,44440Yukon,YT,66,1
+10/1/2021,Canada,Yukon,44470Yukon,YT,166,1
+11/1/2021,Canada,Yukon,44501Yukon,YT,428,2
+3/1/2020,Canada,Northwest Territories,43891Northwest Territories,NT,1,0
+4/1/2020,Canada,Northwest Territories,43922Northwest Territories,NT,4,0
+5/1/2020,Canada,Northwest Territories,43952Northwest Territories,NT,0,0
+6/1/2020,Canada,Northwest Territories,43983Northwest Territories,NT,0,0
+7/1/2020,Canada,Northwest Territories,44013Northwest Territories,NT,0,0
+8/1/2020,Canada,Northwest Territories,44044Northwest Territories,NT,0,0
+9/1/2020,Canada,Northwest Territories,44075Northwest Territories,NT,0,0
+10/1/2020,Canada,Northwest Territories,44105Northwest Territories,NT,5,0
+11/1/2020,Canada,Northwest Territories,44136Northwest Territories,NT,5,0
+12/1/2020,Canada,Northwest Territories,44166Northwest Territories,NT,9,0
+1/1/2021,Canada,Northwest Territories,44197Northwest Territories,NT,7,0
+2/1/2021,Canada,Northwest Territories,44228Northwest Territories,NT,11,0
+3/1/2021,Canada,Northwest Territories,44256Northwest Territories,NT,0,0
+4/1/2021,Canada,Northwest Territories,44287Northwest Territories,NT,9,0
+5/1/2021,Canada,Northwest Territories,44317Northwest Territories,NT,77,0
+6/1/2021,Canada,Northwest Territories,44348Northwest Territories,NT,0,0
+7/1/2021,Canada,Northwest Territories,44378Northwest Territories,NT,0,0
+8/1/2021,Canada,Northwest Territories,44409Northwest Territories,NT,324,1
+9/1/2021,Canada,Northwest Territories,44440Northwest Territories,NT,607,5
+10/1/2021,Canada,Northwest Territories,44470Northwest Territories,NT,804,5
+11/1/2021,Canada,Northwest Territories,44501Northwest Territories,NT,169,1
+3/1/2020,Canada,Nunavut,43891Nunavut,NU,0,0
+4/1/2020,Canada,Nunavut,43922Nunavut,NU,0,0
+5/1/2020,Canada,Nunavut,43952Nunavut,NU,0,0
+6/1/2020,Canada,Nunavut,43983Nunavut,NU,0,0
+7/1/2020,Canada,Nunavut,44013Nunavut,NU,0,0
+8/1/2020,Canada,Nunavut,44044Nunavut,NU,0,0
+9/1/2020,Canada,Nunavut,44075Nunavut,NU,0,0
+10/1/2020,Canada,Nunavut,44105Nunavut,NU,0,0
+11/1/2020,Canada,Nunavut,44136Nunavut,NU,181,0
+12/1/2020,Canada,Nunavut,44166Nunavut,NU,85,1
+1/1/2021,Canada,Nunavut,44197Nunavut,NU,28,0
+2/1/2021,Canada,Nunavut,44228Nunavut,NU,63,0
+3/1/2021,Canada,Nunavut,44256Nunavut,NU,38,3
+4/1/2021,Canada,Nunavut,44287Nunavut,NU,106,0
+5/1/2021,Canada,Nunavut,44317Nunavut,NU,147,0
+6/1/2021,Canada,Nunavut,44348Nunavut,NU,9,0
+7/1/2021,Canada,Nunavut,44378Nunavut,NU,0,0
+8/1/2021,Canada,Nunavut,44409Nunavut,NU,0,0
+9/1/2021,Canada,Nunavut,44440Nunavut,NU,7,0
+10/1/2021,Canada,Nunavut,44470Nunavut,NU,10,0
+11/1/2021,Canada,Nunavut,44501Nunavut,NU,0,0
