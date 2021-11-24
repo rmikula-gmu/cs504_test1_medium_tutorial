@@ -1,0 +1,278 @@
+Key,date,Jurisdiction_Abbrev,Jurisdiction_Full,Country,Monthly_new_case,Monthly_new_death
+43891Newfoundland and Labrador,3/1/2020,NL,Newfoundland and Labrador,Canada,152,1
+43922Newfoundland and Labrador,4/1/2020,NL,Newfoundland and Labrador,Canada,106,2
+43952Newfoundland and Labrador,5/1/2020,NL,Newfoundland and Labrador,Canada,3,0
+43983Newfoundland and Labrador,6/1/2020,NL,Newfoundland and Labrador,Canada,0,0
+44013Newfoundland and Labrador,7/1/2020,NL,Newfoundland and Labrador,Canada,5,0
+44044Newfoundland and Labrador,8/1/2020,NL,Newfoundland and Labrador,Canada,3,0
+44075Newfoundland and Labrador,9/1/2020,NL,Newfoundland and Labrador,Canada,5,0
+44105Newfoundland and Labrador,10/1/2020,NL,Newfoundland and Labrador,Canada,17,1
+44136Newfoundland and Labrador,11/1/2020,NL,Newfoundland and Labrador,Canada,47,0
+44166Newfoundland and Labrador,12/1/2020,NL,Newfoundland and Labrador,Canada,52,0
+44197Newfoundland and Labrador,1/1/2021,NL,Newfoundland and Labrador,Canada,18,0
+44228Newfoundland and Labrador,2/1/2021,NL,Newfoundland and Labrador,Canada,579,2
+44256Newfoundland and Labrador,3/1/2021,NL,Newfoundland and Labrador,Canada,32,0
+44287Newfoundland and Labrador,4/1/2021,NL,Newfoundland and Labrador,Canada,57,0
+44317Newfoundland and Labrador,5/1/2021,NL,Newfoundland and Labrador,Canada,235,0
+44348Newfoundland and Labrador,6/1/2021,NL,Newfoundland and Labrador,Canada,75,1
+44378Newfoundland and Labrador,7/1/2021,NL,Newfoundland and Labrador,Canada,51,0
+44409Newfoundland and Labrador,8/1/2021,NL,Newfoundland and Labrador,Canada,41,0
+44440Newfoundland and Labrador,9/1/2021,NL,Newfoundland and Labrador,Canada,269,1
+44470Newfoundland and Labrador,10/1/2021,NL,Newfoundland and Labrador,Canada,245,8
+44501Newfoundland and Labrador,11/1/2021,NL,Newfoundland and Labrador,Canada,39,1
+43891Prince Edward Island,3/1/2020,PE,Prince Edward Island,Canada,21,0
+43922Prince Edward Island,4/1/2020,PE,Prince Edward Island,Canada,6,0
+43952Prince Edward Island,5/1/2020,PE,Prince Edward Island,Canada,0,0
+43983Prince Edward Island,6/1/2020,PE,Prince Edward Island,Canada,0,0
+44013Prince Edward Island,7/1/2020,PE,Prince Edward Island,Canada,9,0
+44044Prince Edward Island,8/1/2020,PE,Prince Edward Island,Canada,8,0
+44075Prince Edward Island,9/1/2020,PE,Prince Edward Island,Canada,15,0
+44105Prince Edward Island,10/1/2020,PE,Prince Edward Island,Canada,5,0
+44136Prince Edward Island,11/1/2020,PE,Prince Edward Island,Canada,8,0
+44166Prince Edward Island,12/1/2020,PE,Prince Edward Island,Canada,24,0
+44197Prince Edward Island,1/1/2021,PE,Prince Edward Island,Canada,15,0
+44228Prince Edward Island,2/1/2021,PE,Prince Edward Island,Canada,21,0
+44256Prince Edward Island,3/1/2021,PE,Prince Edward Island,Canada,27,0
+44287Prince Edward Island,4/1/2021,PE,Prince Edward Island,Canada,22,0
+44317Prince Edward Island,5/1/2021,PE,Prince Edward Island,Canada,23,0
+44348Prince Edward Island,6/1/2021,PE,Prince Edward Island,Canada,3,0
+44378Prince Edward Island,7/1/2021,PE,Prince Edward Island,Canada,1,0
+44409Prince Edward Island,8/1/2021,PE,Prince Edward Island,Canada,25,0
+44440Prince Edward Island,9/1/2021,PE,Prince Edward Island,Canada,66,0
+44470Prince Edward Island,10/1/2021,PE,Prince Edward Island,Canada,18,0
+44501Prince Edward Island,11/1/2021,PE,Prince Edward Island,Canada,19,0
+43891Nova Scotia,3/1/2020,NS,Nova Scotia,Canada,147,0
+43922Nova Scotia,4/1/2020,NS,Nova Scotia,Canada,800,28
+43952Nova Scotia,5/1/2020,NS,Nova Scotia,Canada,109,32
+43983Nova Scotia,6/1/2020,NS,Nova Scotia,Canada,6,3
+44013Nova Scotia,7/1/2020,NS,Nova Scotia,Canada,7,1
+44044Nova Scotia,8/1/2020,NS,Nova Scotia,Canada,16,1
+44075Nova Scotia,9/1/2020,NS,Nova Scotia,Canada,3,0
+44105Nova Scotia,10/1/2020,NS,Nova Scotia,Canada,21,0
+44136Nova Scotia,11/1/2020,NS,Nova Scotia,Canada,196,0
+44166Nova Scotia,12/1/2020,NS,Nova Scotia,Canada,181,0
+44197Nova Scotia,1/1/2021,NS,Nova Scotia,Canada,94,0
+44228Nova Scotia,2/1/2021,NS,Nova Scotia,Canada,61,0
+44256Nova Scotia,3/1/2021,NS,Nova Scotia,Canada,75,1
+44287Nova Scotia,4/1/2021,NS,Nova Scotia,Canada,711,1
+44317Nova Scotia,5/1/2021,NS,Nova Scotia,Canada,3140,18
+44348Nova Scotia,6/1/2021,NS,Nova Scotia,Canada,269,7
+44378Nova Scotia,7/1/2021,NS,Nova Scotia,Canada,51,1
+44409Nova Scotia,8/1/2021,NS,Nova Scotia,Canada,144,1
+44440Nova Scotia,9/1/2021,NS,Nova Scotia,Canada,607,3
+44470Nova Scotia,10/1/2021,NS,Nova Scotia,Canada,716,3
+44501Nova Scotia,11/1/2021,NS,Nova Scotia,Canada,631,5
+43891New Brunswick,3/1/2020,NB,New Brunswick,Canada,70,0
+43922New Brunswick,4/1/2020,NB,New Brunswick,Canada,48,0
+43952New Brunswick,5/1/2020,NB,New Brunswick,Canada,14,0
+43983New Brunswick,6/1/2020,NB,New Brunswick,Canada,33,2
+44013New Brunswick,7/1/2020,NB,New Brunswick,Canada,5,0
+44044New Brunswick,8/1/2020,NB,New Brunswick,Canada,21,0
+44075New Brunswick,9/1/2020,NB,New Brunswick,Canada,9,0
+44105New Brunswick,10/1/2020,NB,New Brunswick,Canada,143,4
+44136New Brunswick,11/1/2020,NB,New Brunswick,Canada,158,1
+44166New Brunswick,12/1/2020,NB,New Brunswick,Canada,98,2
+44197New Brunswick,1/1/2021,NB,New Brunswick,Canada,657,9
+44228New Brunswick,2/1/2021,NB,New Brunswick,Canada,174,9
+44256New Brunswick,3/1/2021,NB,New Brunswick,Canada,183,3
+44287New Brunswick,4/1/2021,NB,New Brunswick,Canada,302,6
+44317New Brunswick,5/1/2021,NB,New Brunswick,Canada,295,7
+44348New Brunswick,6/1/2021,NB,New Brunswick,Canada,122,2
+44378New Brunswick,7/1/2021,NB,New Brunswick,Canada,33,1
+44409New Brunswick,8/1/2021,NB,New Brunswick,Canada,398,0
+44440New Brunswick,9/1/2021,NB,New Brunswick,Canada,1424,13
+44470New Brunswick,10/1/2021,NB,New Brunswick,Canada,2258,58
+44501New Brunswick,11/1/2021,NB,New Brunswick,Canada,977,5
+43891Quebec,3/1/2020,QC,Quebec,Canada,4162,31
+43922Quebec,4/1/2020,QC,Quebec,Canada,23376,1828
+43952Quebec,5/1/2020,QC,Quebec,Canada,23521,2782
+43983Quebec,6/1/2020,QC,Quebec,Canada,4399,862
+44013Quebec,7/1/2020,QC,Quebec,Canada,3854,171
+44044Quebec,8/1/2020,QC,Quebec,Canada,3180,86
+44075Quebec,9/1/2020,QC,Quebec,Canada,11796,74
+44105Quebec,10/1/2020,QC,Quebec,Canada,31728,412
+44136Quebec,11/1/2020,QC,Quebec,Canada,36355,810
+44166Quebec,12/1/2020,QC,Quebec,Canada,60270,1170
+44197Quebec,1/1/2021,QC,Quebec,Canada,59942,1568
+44228Quebec,2/1/2021,QC,Quebec,Canada,25157,599
+44256Quebec,3/1/2021,QC,Quebec,Canada,23351,274
+44287Quebec,4/1/2021,QC,Quebec,Canada,38682,259
+44317Quebec,5/1/2021,QC,Quebec,Canada,20546,202
+44348Quebec,6/1/2021,QC,Quebec,Canada,4538,82
+44378Quebec,7/1/2021,QC,Quebec,Canada,2440,30
+44409Quebec,8/1/2021,QC,Quebec,Canada,11927,46
+44440Quebec,9/1/2021,QC,Quebec,Canada,20956,85
+44470Quebec,10/1/2021,QC,Quebec,Canada,15780,123
+44501Quebec,11/1/2021,QC,Quebec,Canada,10844,56
+43831Ontario,1/1/2020,ON,Ontario,Canada,3,0
+43862Ontario,2/1/2020,ON,Ontario,Canada,5,0
+43891Ontario,3/1/2020,ON,Ontario,Canada,1958,33
+43922Ontario,4/1/2020,ON,Ontario,Canada,14221,1054
+43952Ontario,5/1/2020,ON,Ontario,Canada,11672,1189
+43983Ontario,6/1/2020,ON,Ontario,Canada,7209,411
+44013Ontario,7/1/2020,ON,Ontario,Canada,4141,108
+44044Ontario,8/1/2020,ON,Ontario,Canada,3100,41
+44075Ontario,9/1/2020,ON,Ontario,Canada,9401,42
+44105Ontario,10/1/2020,ON,Ontario,Canada,24020,293
+44136Ontario,11/1/2020,ON,Ontario,Canada,40762,525
+44166Ontario,12/1/2020,ON,Ontario,Canada,65667,880
+44197Ontario,1/1/2021,ON,Ontario,Canada,86052,1612
+44228Ontario,2/1/2021,ON,Ontario,Canada,32605,792
+44256Ontario,3/1/2021,ON,Ontario,Canada,49087,386
+44287Ontario,4/1/2021,ON,Ontario,Canada,113461,684
+44317Ontario,5/1/2021,ON,Ontario,Canada,68095,707
+44348Ontario,6/1/2021,ON,Ontario,Canada,13438,411
+44378Ontario,7/1/2021,ON,Ontario,Canada,5539,177
+44409Ontario,8/1/2021,ON,Ontario,Canada,15114,158
+44440Ontario,9/1/2021,ON,Ontario,Canada,20599,229
+44470Ontario,10/1/2021,ON,Ontario,Canada,13806,139
+44501Ontario,11/1/2021,ON,Ontario,Canada,9474,84
+43891Manitoba,3/1/2020,MB,Manitoba,Canada,103,1
+43922Manitoba,4/1/2020,MB,Manitoba,Canada,172,5
+43952Manitoba,5/1/2020,MB,Manitoba,Canada,20,1
+43983Manitoba,6/1/2020,MB,Manitoba,Canada,30,0
+44013Manitoba,7/1/2020,MB,Manitoba,Canada,90,1
+44044Manitoba,8/1/2020,MB,Manitoba,Canada,799,6
+44075Manitoba,9/1/2020,MB,Manitoba,Canada,779,6
+44105Manitoba,10/1/2020,MB,Manitoba,Canada,3730,47
+44136Manitoba,11/1/2020,MB,Manitoba,Canada,11102,245
+44166Manitoba,12/1/2020,MB,Manitoba,Canada,7875,355
+44197Manitoba,1/1/2021,MB,Manitoba,Canada,4864,162
+44228Manitoba,2/1/2021,MB,Manitoba,Canada,2295,66
+44256Manitoba,3/1/2021,MB,Manitoba,Canada,2256,40
+44287Manitoba,4/1/2021,MB,Manitoba,Canada,4607,39
+44317Manitoba,5/1/2021,MB,Manitoba,Canada,12362,79
+44348Manitoba,6/1/2021,MB,Manitoba,Canada,5083,87
+44378Manitoba,7/1/2021,MB,Manitoba,Canada,1453,38
+44409Manitoba,8/1/2021,MB,Manitoba,Canada,1090,11
+44440Manitoba,9/1/2021,MB,Manitoba,Canada,1833,22
+44470Manitoba,10/1/2021,MB,Manitoba,Canada,3049,36
+44501Manitoba,11/1/2021,MB,Manitoba,Canada,2592,34
+43891Saskatchewan,3/1/2020,SK,Saskatchewan,Canada,184,2
+43922Saskatchewan,4/1/2020,SK,Saskatchewan,Canada,205,4
+43952Saskatchewan,5/1/2020,SK,Saskatchewan,Canada,257,5
+43983Saskatchewan,6/1/2020,SK,Saskatchewan,Canada,139,2
+44013Saskatchewan,7/1/2020,SK,Saskatchewan,Canada,534,5
+44044Saskatchewan,8/1/2020,SK,Saskatchewan,Canada,300,6
+44075Saskatchewan,9/1/2020,SK,Saskatchewan,Canada,294,0
+44105Saskatchewan,10/1/2020,SK,Saskatchewan,Canada,1231,1
+44136Saskatchewan,11/1/2020,SK,Saskatchewan,Canada,5420,22
+44166Saskatchewan,12/1/2020,SK,Saskatchewan,Canada,6785,108
+44197Saskatchewan,1/1/2021,SK,Saskatchewan,Canada,8515,149
+44228Saskatchewan,2/1/2021,SK,Saskatchewan,Canada,4783,81
+44256Saskatchewan,3/1/2021,SK,Saskatchewan,Canada,4943,51
+44287Saskatchewan,4/1/2021,SK,Saskatchewan,Canada,7508,55
+44317Saskatchewan,5/1/2021,SK,Saskatchewan,Canada,5650,48
+44348Saskatchewan,6/1/2021,SK,Saskatchewan,Canada,2106,29
+44378Saskatchewan,7/1/2021,SK,Saskatchewan,Canada,1170,10
+44409Saskatchewan,8/1/2021,SK,Saskatchewan,Canada,4343,25
+44440Saskatchewan,9/1/2021,SK,Saskatchewan,Canada,12972,92
+44470Saskatchewan,10/1/2021,SK,Saskatchewan,Canada,10325,156
+44501Saskatchewan,11/1/2021,SK,Saskatchewan,Canada,2273,54
+43891Alberta,3/1/2020,AB,Alberta,Canada,754,9
+43922Alberta,4/1/2020,AB,Alberta,Canada,4601,80
+43952Alberta,5/1/2020,AB,Alberta,Canada,1655,54
+43983Alberta,6/1/2020,AB,Alberta,Canada,1098,11
+44013Alberta,7/1/2020,AB,Alberta,Canada,2735,42
+44044Alberta,8/1/2020,AB,Alberta,Canada,3059,43
+44075Alberta,9/1/2020,AB,Alberta,Canada,4160,28
+44105Alberta,10/1/2020,AB,Alberta,Canada,10183,56
+44136Alberta,11/1/2020,AB,Alberta,Canada,29932,218
+44166Alberta,12/1/2020,AB,Alberta,Canada,43451,505
+44197Alberta,1/1/2021,AB,Alberta,Canada,22580,593
+44228Alberta,2/1/2021,AB,Alberta,Canada,9296,247
+44256Alberta,3/1/2021,AB,Alberta,Canada,14828,104
+44287Alberta,4/1/2021,AB,Alberta,Canada,42402,92
+44317Alberta,5/1/2021,AB,Alberta,Canada,36775,145
+44348Alberta,6/1/2021,AB,Alberta,Canada,4478,74
+44378Alberta,7/1/2021,AB,Alberta,Canada,2548,23
+44409Alberta,8/1/2021,AB,Alberta,Canada,18395,51
+44440Alberta,9/1/2021,AB,Alberta,Canada,45242,342
+44470Alberta,10/1/2021,AB,Alberta,Canada,25685,376
+44501Alberta,11/1/2021,AB,Alberta,Canada,7357,116
+43831British Columbia,1/1/2020,BC,British Columbia,Canada,1,0
+43862British Columbia,2/1/2020,BC,British Columbia,Canada,6,0
+43891British Columbia,3/1/2020,BC,British Columbia,Canada,963,19
+43922British Columbia,4/1/2020,BC,British Columbia,Canada,1142,92
+43952British Columbia,5/1/2020,BC,British Columbia,Canada,461,53
+43983British Columbia,6/1/2020,BC,British Columbia,Canada,343,10
+44013British Columbia,7/1/2020,BC,British Columbia,Canada,725,21
+44044British Columbia,8/1/2020,BC,British Columbia,Canada,2149,13
+44075British Columbia,9/1/2020,BC,British Columbia,Canada,3348,26
+44105British Columbia,10/1/2020,BC,British Columbia,Canada,5595,29
+44136British Columbia,11/1/2020,BC,British Columbia,Canada,18505,178
+44166British Columbia,12/1/2020,BC,British Columbia,Canada,18752,460
+44197British Columbia,1/1/2021,BC,British Columbia,Canada,15670,288
+44228British Columbia,2/1/2021,BC,British Columbia,Canada,12794,166
+44256British Columbia,3/1/2021,BC,British Columbia,Canada,19594,103
+44287British Columbia,4/1/2021,BC,British Columbia,Canada,29434,123
+44317British Columbia,5/1/2021,BC,British Columbia,Canada,14807,122
+44348British Columbia,6/1/2021,BC,British Columbia,Canada,3332,51
+44378British Columbia,7/1/2021,BC,British Columbia,Canada,2428,17
+44409British Columbia,8/1/2021,BC,British Columbia,Canada,16019,45
+44440British Columbia,9/1/2021,BC,British Columbia,Canada,20912,146
+44470British Columbia,10/1/2021,BC,British Columbia,Canada,18972,194
+44501British Columbia,11/1/2021,BC,British Columbia,Canada,8198,134
+43891Yukon,3/1/2020,YT,Yukon,Canada,5,0
+43922Yukon,4/1/2020,YT,Yukon,Canada,6,0
+43952Yukon,5/1/2020,YT,Yukon,Canada,0,0
+43983Yukon,6/1/2020,YT,Yukon,Canada,0,0
+44013Yukon,7/1/2020,YT,Yukon,Canada,3,0
+44044Yukon,8/1/2020,YT,Yukon,Canada,1,0
+44075Yukon,9/1/2020,YT,Yukon,Canada,0,0
+44105Yukon,10/1/2020,YT,Yukon,Canada,8,1
+44136Yukon,11/1/2020,YT,Yukon,Canada,24,0
+44166Yukon,12/1/2020,YT,Yukon,Canada,13,0
+44197Yukon,1/1/2021,YT,Yukon,Canada,10,0
+44228Yukon,2/1/2021,YT,Yukon,Canada,2,0
+44256Yukon,3/1/2021,YT,Yukon,Canada,2,0
+44287Yukon,4/1/2021,YT,Yukon,Canada,7,1
+44317Yukon,5/1/2021,YT,Yukon,Canada,3,0
+44348Yukon,6/1/2021,YT,Yukon,Canada,258,3
+44378Yukon,7/1/2021,YT,Yukon,Canada,254,2
+44409Yukon,8/1/2021,YT,Yukon,Canada,93,1
+44440Yukon,9/1/2021,YT,Yukon,Canada,66,1
+44470Yukon,10/1/2021,YT,Yukon,Canada,166,1
+44501Yukon,11/1/2021,YT,Yukon,Canada,428,2
+43891Northwest Territories,3/1/2020,NT,Northwest Territories,Canada,1,0
+43922Northwest Territories,4/1/2020,NT,Northwest Territories,Canada,4,0
+43952Northwest Territories,5/1/2020,NT,Northwest Territories,Canada,0,0
+43983Northwest Territories,6/1/2020,NT,Northwest Territories,Canada,0,0
+44013Northwest Territories,7/1/2020,NT,Northwest Territories,Canada,0,0
+44044Northwest Territories,8/1/2020,NT,Northwest Territories,Canada,0,0
+44075Northwest Territories,9/1/2020,NT,Northwest Territories,Canada,0,0
+44105Northwest Territories,10/1/2020,NT,Northwest Territories,Canada,5,0
+44136Northwest Territories,11/1/2020,NT,Northwest Territories,Canada,5,0
+44166Northwest Territories,12/1/2020,NT,Northwest Territories,Canada,9,0
+44197Northwest Territories,1/1/2021,NT,Northwest Territories,Canada,7,0
+44228Northwest Territories,2/1/2021,NT,Northwest Territories,Canada,11,0
+44256Northwest Territories,3/1/2021,NT,Northwest Territories,Canada,0,0
+44287Northwest Territories,4/1/2021,NT,Northwest Territories,Canada,9,0
+44317Northwest Territories,5/1/2021,NT,Northwest Territories,Canada,77,0
+44348Northwest Territories,6/1/2021,NT,Northwest Territories,Canada,0,0
+44378Northwest Territories,7/1/2021,NT,Northwest Territories,Canada,0,0
+44409Northwest Territories,8/1/2021,NT,Northwest Territories,Canada,324,1
+44440Northwest Territories,9/1/2021,NT,Northwest Territories,Canada,607,5
+44470Northwest Territories,10/1/2021,NT,Northwest Territories,Canada,804,5
+44501Northwest Territories,11/1/2021,NT,Northwest Territories,Canada,169,1
+43891Nunavut,3/1/2020,NU,Nunavut,Canada,0,0
+43922Nunavut,4/1/2020,NU,Nunavut,Canada,0,0
+43952Nunavut,5/1/2020,NU,Nunavut,Canada,0,0
+43983Nunavut,6/1/2020,NU,Nunavut,Canada,0,0
+44013Nunavut,7/1/2020,NU,Nunavut,Canada,0,0
+44044Nunavut,8/1/2020,NU,Nunavut,Canada,0,0
+44075Nunavut,9/1/2020,NU,Nunavut,Canada,0,0
+44105Nunavut,10/1/2020,NU,Nunavut,Canada,0,0
+44136Nunavut,11/1/2020,NU,Nunavut,Canada,181,0
+44166Nunavut,12/1/2020,NU,Nunavut,Canada,85,1
+44197Nunavut,1/1/2021,NU,Nunavut,Canada,28,0
+44228Nunavut,2/1/2021,NU,Nunavut,Canada,63,0
+44256Nunavut,3/1/2021,NU,Nunavut,Canada,38,3
+44287Nunavut,4/1/2021,NU,Nunavut,Canada,106,0
+44317Nunavut,5/1/2021,NU,Nunavut,Canada,147,0
+44348Nunavut,6/1/2021,NU,Nunavut,Canada,9,0
+44378Nunavut,7/1/2021,NU,Nunavut,Canada,0,0
+44409Nunavut,8/1/2021,NU,Nunavut,Canada,0,0
+44440Nunavut,9/1/2021,NU,Nunavut,Canada,7,0
+44470Nunavut,10/1/2021,NU,Nunavut,Canada,10,0
+44501Nunavut,11/1/2021,NU,Nunavut,Canada,0,0
